@@ -1,7 +1,12 @@
+
 import numpy as np
 import torch
 import torch.nn as nn
 import torch.optim as optim
+
+
+# dataset
+
 
 # Parameters
 epochs = 1_000
@@ -11,13 +16,16 @@ hidden1 = 10
 output_size = 1
 lr = 1e-3
 
+
 # Generate dataset
 X = np.random.rand(sample_size, input_size)   # shape: (100, 10)
 y = np.random.rand(sample_size, output_size)  # shape: (100, 1)
 
+
 # Convert to torch tensors
 X = torch.tensor(X, dtype=torch.float32)
 y = torch.tensor(y, dtype=torch.float32)
+
 
 # Define network
 class NN(nn.Module):
@@ -32,10 +40,12 @@ class NN(nn.Module):
         x = self.relu(x)
         return self.fc2(x)
 
+
 # Initialize model, loss, optimizer
 model = NN(input_size, hidden1, output_size)
 criterion = nn.MSELoss()
 optimizer = optim.SGD(model.parameters(), lr=lr)
+
 
 # Training loop
 for epoch in range(epochs):
@@ -48,6 +58,7 @@ for epoch in range(epochs):
     if (epoch + 1) % 50 == 0:
         print(f"Epoch {epoch+1}, Loss: {loss.item():.4f}")
 
+
 # Testing
 with torch.no_grad():
     test_X = np.random.rand(sample_size, input_size)
@@ -55,3 +66,4 @@ with torch.no_grad():
     prediction = model(test_X)
     print("Prediction shape:", prediction.shape)
     print("Sample predictions:", prediction[:5])
+
