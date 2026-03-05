@@ -1,0 +1,3 @@
+
+make:
+	@python main.py
