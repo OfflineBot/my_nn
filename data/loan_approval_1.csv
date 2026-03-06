@@ -1,0 +1,968 @@
+Num_Kids|Loan_ID|Gender|Married|Dependent_No|Education|Self_Employed|Applicant_Income|CoApplicant_Income|Loan_Amount|Loan_Amount_Term|Credit History|Property_District|Loan_Status
+-|26376|Male|True|0|Graduate|True|59493||20000|300|1|RCR|1
+-|26377|Male|False|1|Graduate|True|64980||20000|240|1|RCR|1
+-|26378|Female|False|0|Graduate|False|63107|47347.0|60000|120|0|RCR|1
+-|26379|Male|False|2|Not Graduate|True|60585|43395.0|30000|360|1|RCR|1
+-|26380|Male|False|0|Graduate|False|23402|46466.0|50000|60|0|OCR|1
+-|26381|Female|False|3|Not Graduate|False|22035|16951.0|20000|180|0|CCR|1
+-|26382|Female|True|4|Graduate|True|25844|30246.0|50000|300|1|OCR|0
+-|26383|Male|False|4|Not Graduate|False|85463|27233.0|30000|360|1|RCR|1
+-|26384|Male|True|2|Not Graduate|True|66460||60000|180|1|OCR|1
+-|26387|Female|True|1|Not Graduate|True|44858|24821.0|20000|300|1|OCR|1
+-|26388|Female|False|1|Not Graduate|True|14387|36090.0|30000|60|1|CCR|0
+-|26390|Male|True|0|Graduate|True|2953||30000|360|1|RCR|0
+-|26391|Male|True|4|Graduate|False|96056|3783.0|50000|300|0|OCR|1
+-|26393|Female|False|0|Graduate|False|59347|28529.0|50000|120|1|CCR|1
+-|26394|Male|False|3|Graduate|True|53975|15804.0|50000|360|1|RCR|1
+-|26396|Male|False|1|Not Graduate|False|24147|23964.0|20000|60|1|CCR|0
+-|26397|Female|False|2|Not Graduate|True|47932|46127.0|30000|360|1|RCR|0
+-|26398|Female|True|4|Graduate|True|2971|2319.0|50000|120|1|CCR|1
+-|26399|Male|False|0|Not Graduate|True|89635||20000|240|1|OCR|1
+-|26400|Male|False|0|Not Graduate|True|31163|8988.0|20000|60|1|RCR|0
+-|26401|Female|False|1|Not Graduate|True|4727|25332.0|40000|300|0|OCR|0
+-|26402|Female|True|1|Graduate|True|2176|24877.0|30000|120|1|CCR|1
+-|26404|Male|False|0|Not Graduate|True|98019|45214.0|20000|360|0|RCR|1
+-|26405|Female|False|4|Graduate|False|13422||20000|60|1|OCR|1
+-|26406|Female|False|2|Graduate|True|47789||20000|360|0|RCR|1
+-|26407|Male|True|2|Graduate|False|7652||30000|300|1|OCR|1
+-|26408|Male|True|4|Graduate|True|72176|14951.0|40000|300|0|CCR|1
+-|26409|Female|True|3|Graduate|False|73208||60000|60|0|OCR|1
+-|26410|m|True|0|Graduate|False|93081|36434.0|60000|240|1|OCR|0
+-|26411|Male|True|4|Not Graduate|True|75755|4326.0|30000|360|1|OCR|0
+-|26412|Male|False|2|Graduate|True|63621|41598.0|50000|60|1|OCR|1
+-|26413|Female|True|2|Graduate|False|5645|20742.0|30000|60|1|OCR|0
+-|26414|Female|True|2|Graduate|True|69419|6571.0|60000|360|1|RCR|0
+-|26415|Female|True|1|Not Graduate|True|68972|9876.0|50000|180|0|RCR|1
+-|26416|Female|True|4|Not Graduate|False|57701|12334.0|50000|180|1|CCR|1
+-|26417|Male|True|4|Not Graduate|True|12179|20044.0|50000|360|1|OCR|0
+-|26418|Male|False|2|Not Graduate|True|98301||30000|300|1|RCR|0
+-|26419|Female|False|1|Not Graduate|False|91387|7963.0|10000|240|0|OCR|1
+-|26420|Female|True|0|Not Graduate|False|17969|12191.0|20000|180|1|CCR|1
+-|26421|Female|True|0|Not Graduate|True|60570||50000|360|1|OCR|1
+-|26422|Male|True|2|Graduate|False|49734|15020.0|40000|360|0|CCR|1
+-|26423|Female|False|1|Not Graduate|False|78863|26658.0|40000|120|0|OCR|1
+-|26424|Male|False|4|Not Graduate|False|60892||30000|300|1|CCR|0
+-|26425|Female|False|2|Not Graduate|True|42168|38601.0|60000|120|1|CCR|1
+-|26428|Male|False|2|Not Graduate|True|94629|15213.0|50000|360|0|OCR|0
+-|26429|m|True|1|Not Graduate|True|32994|48648.0|10000|60|1|RCR|1
+-|26430|Male|True|3|Graduate|False|79788|46306.0|40000|180|1|RCR|1
+-|26432|Female|False|4|Not Graduate|True|46051|49537.0|60000|120|1|RCR|1
+-|26434|Female|True|4|Not Graduate|False|78126|30075.0|10000|120|1|CCR|0
+-|26435|Male|True|1|Not Graduate|True|86772|4532.0|30000|180|1|CCR|1
+-|26436|Male|True|0|Graduate|True|36428|3133.0|10000|60|1|RCR|1
+-|26437|Female|True|0|Not Graduate|False|91768|7782.0|40000|300|0|OCR|0
+-|26438|Female|False|2|Graduate|False|78134|13092.0|40000|360|1|OCR|1
+-|26439|Male|False|0|Not Graduate|False|17674|13052.0|60000|240|1|OCR|1
+-|26440|Male|True|2|Graduate|False|28464||60000|300|0|OCR|0
+-|26441|Female|True|3|Graduate|True|99601|1263.0|10000|60|1|OCR|1
+-|26442|Male|False|3|Graduate|False|6078|40882.0|30000|60|1|OCR|1
+-|26444|Male|True|2|Graduate|True|9897|14867.0|50000|240|1|OCR|1
+-|26446|Female|False|1|Not Graduate|True|15878|8183.0|50000|300|0|RCR|1
+-|26447|Female|True|3|Not Graduate|True|19206|43565.0|40000|120|1|RCR|1
+-|26449|Male|False|4|Graduate|True|78132||50000|360|0|OCR|0
+-|26451|Female|True|4|Not Graduate|False|73909|19755.0|40000|360|1|RCR|1
+-|26452|Female|True|0|Graduate|False|80903||40000|60|0|OCR|0
+-|26455|Male|False|1|Graduate|False|20686|39752.0|60000|300|1|RCR|0
+-|26456|Female|True|1|Graduate|False|88909||50000|180|1|CCR|0
+-|26457|Female|True|3|Graduate|True|23882|27801.0|20000|240|1|OCR|1
+-|26461|Male|True|4|Not Graduate|True|45366|1191.0|30000|360|0|CCR|0
+-|26462|Male|True|2|Not Graduate|False|1045|23626.0|10000|240|1|OCR|1
+-|26463|Female|False|4|Not Graduate|True|60759|7093.0|50000|180|1|OCR|0
+-|26464|Female|False|4|Not Graduate|True|53628||20000|360|1|OCR|1
+-|26466|Female|False|3|Not Graduate|True|96147||60000|360|0|OCR|0
+-|26468|Male|False|2|Graduate|True|57726|19491.0|50000|180|1|OCR|0
+-|26469|Female|True|2|Not Graduate|False|9193|26251.0|20000|180|0|RCR|1
+-|26471|Female|True|3|Graduate|True|60886||40000|60|1|OCR|1
+-|26472|Male|False|2|Not Graduate|False|79964|5463.0|50000|300|0|RCR|1
+-|26473|Male|False|4|Not Graduate|False|82919|43026.0|20000|120|0|OCR|0
+-|26474|Male|False|2|Not Graduate|False|34635|23752.0|30000|240|1|OCR|1
+-|26476|Male|True|4|Not Graduate|False|40888|13970.0|40000|360|0|OCR|1
+-|26477|Female|True|4|Graduate|True|41408|19150.0|20000|300|1|OCR|1
+-|26478|Male|True|1|Not Graduate|True|96184|46275.0|40000|120|1|RCR|0
+-|26479|Female|True|4|Not Graduate|True|55230|7225.0|40000|60|1|OCR|1
+-|26480|Male|False|0|Not Graduate|True|57969|37016.0|10000|180|0|OCR|1
+-|26481|Female|True|4|Graduate|True|54843|20640.0|60000|240|0|CCR|1
+-|26482|Male|False|4|Graduate|True|31162||20000|120|1|CCR|1
+-|26483|Female|False|1|Not Graduate|True|39478|5171.0|20000|360|1|OCR|0
+-|26484|Male|False|3|Graduate|True|91272|18862.0|10000|60|0|OCR|0
+-|26485|Male|False|0|Not Graduate|False|71209|39642.0|40000|240|1|CCR|0
+-|26486|Female|False|3|Graduate|False|35126|2576.0|60000|180|0|OCR|1
+-|26487|Male|True|1|Not Graduate|True|40357|42579.0|50000|360|1|OCR|0
+-|26488|Male|True|2|Not Graduate|False|64425|21655.0|10000|120|1|OCR|1
+-|26489|Male|False|1|Not Graduate|True|2839|44736.0|50000|60|1|OCR|1
+-|26490|Male|True|3|Graduate|False|11471|18216.0|30000|120|0|CCR|1
+-|26491|Female|True|1|Not Graduate|True|55842|14878.0|20000|360|1|OCR|1
+-|26492|Male|False|1|Graduate|False|62979|27922.0|10000|300|1|RCR|0
+-|26493|Male|False|3|Graduate|True|16199|37303.0|50000|300|1|RCR|0
+-|26494|Male|True|0|Not Graduate|True|41689|33911.0|60000|240|1|OCR|1
+-|26496|Female|False|2|Graduate|True|92438|38829.0|50000|120|0|CCR|1
+-|26497|Male|True|1|Graduate|True|52193|3815.0|20000|60|1|OCR|0
+-|26502|Male|False|4|Not Graduate|True|22812|11207.0|60000|300|1|OCR|0
+-|26503|Male|True|2|Not Graduate|False|57807|39056.0|20000|60|0|OCR|0
+-|26504|Female|False|3|Graduate|False|1002|35160.0|30000|180|0|CCR|1
+-|26505|Male|False|1|Graduate|False|5222|24887.0|40000|60|1|OCR|1
+-|26506|Male|False|1|Not Graduate|True|68478|31093.0|10000|60|1|OCR|1
+-|26507|Female|True|2|Not Graduate|False|27640|28737.0|20000|180|0|CCR|1
+-|26508|Female|True|3|Not Graduate|True|67673|5247.0|60000|60|1|OCR|1
+-|26510|Female|False|1|Not Graduate|False|57393|11184.0|40000|360|0|CCR|1
+-|26515|Male|False|3|Not Graduate|False|23741|22948.0|40000|240|1|OCR|1
+-|26516|Male|False|1|Not Graduate|True|53468|6531.0|60000|240|1|CCR|1
+-|26517|Male|True|0|Graduate|True|84819|48706.0|40000|300|1|OCR|1
+-|26518|M|True|2|Graduate|True|16310|7531.0|30000|300|1|RCR|1
+-|26519|Male|False|4|Graduate|False|33693|18300.0|30000|300|1|CCR|0
+-|26520|Male|True|4|Not Graduate|False|89258|29673.0|10000|360|1|OCR|0
+-|26521|Male|False|4|Not Graduate|True|94418||10000|300|1|CCR|1
+-|26522|M|False|4|Graduate|True|26085|20023.0|20000|240|1|RCR|0
+-|26523|Female|True|0|Not Graduate|False|60269|33929.0|20000|180|1|CCR|1
+-|26524|Male|False|2|Not Graduate|True|6866|15278.0|40000|60|0|OCR|0
+-|26525|Male|True|1|Not Graduate|True|99968|14928.0|20000|60|1|CCR|1
+-|26526|Male|False|4|Graduate|True|15164|11599.0|30000|180|1|RCR|0
+-|26527|Female|True|1|Not Graduate|False|35248|38858.0|40000|300|0|OCR|0
+-|26528|Male|False|0|Graduate|False|11049|19349.0|20000|180|1|CCR|0
+-|26529|Male|True|2|Graduate|False|24353|45652.0|40000|360|0|OCR|1
+-|26530|Female|True|4|Not Graduate|False|72856|20471.0|30000|240|0|RCR|1
+-|26531|Male|False|1|Not Graduate|True|66056|27832.0|50000|240|1|RCR|0
+-|26533|Male|True|1|Not Graduate|True|71566|32887.0|50000|60|1|RCR|0
+-|26535|Male|False|4|Not Graduate|True|6039|47980.0|60000|240|0|OCR|0
+-|26536|Male|False|2|Not Graduate|True|63468|4787.0|60000|300|1|RCR|1
+-|26537|Male|False|2|Not Graduate|False|2127|16237.0|60000|60|1|RCR|0
+-|26539|Female|False|3|Not Graduate|True|46221|32553.0|20000|120|1|CCR|0
+-|26540|Female|True|2|Not Graduate|True|60641|46418.0|20000|240|1|OCR|0
+-|26541|Female|False|0|Not Graduate|True|10250|10763.0|50000|360|1|CCR|1
+-|26542|Male|True|0|Not Graduate|True|31528|31958.0|20000|360|1|CCR|0
+-|26543|Female|True|4|Not Graduate|False|13706||40000|360|1|OCR|1
+-|26544|Female|False|2|Not Graduate|False|30971|19469.0|30000|60|1|RCR|1
+-|26545|Male|False|2|Graduate|True|99599|16577.0|10000|360|0|RCR|1
+-|26547|Male|True|1|Graduate|False|52759|2688.0|10000|120|1|RCR|1
+-|26548|Male|False|4|Not Graduate|True|16950|9927.0|60000|180|0|CCR|0
+-|26551|Male|False|1|Graduate|True|67103|12092.0|10000|300|1|CCR|0
+-|26552|Male|True|4|Graduate|True|14011|23112.0|20000|300|0|CCR|0
+-|26553|Female|True|4|Not Graduate|True|2955||30000|240|1|RCR|1
+-|26555|Male|True|3|Not Graduate|True|10726|22812.0|50000|300|1|OCR|0
+-|26556|Female|False|1|Not Graduate|False|76665|13056.0|50000|240|1|RCR|1
+-|26557|Male|True|2|Graduate|False|59129|2251.0|50000|360|1|OCR|0
+-|26558|Female|True|3|Graduate|False|61568|3295.0|50000|240|1|CCR|0
+-|26559|Female|True|3|Graduate|True|53735|41132.0|60000|180|1|OCR|1
+-|26560|Male|True|1|Not Graduate|False|1405|3105.0|10000|300|0|OCR|1
+-|26561|Male|False|1|Not Graduate|True|21939|25397.0|20000|240|0|CCR|0
+-|26565|Male|False|2|Graduate|True|23354|24991.0|60000|60|0|OCR|1
+-|26566|Male|False|1|Graduate|False|49338||10000|240|0|CCR|1
+-|26568|Male|False|1|Not Graduate|True|11244|29749.0|60000|180|1|OCR|0
+-|26569|Male|False|3|Not Graduate|True|80832|21753.0|20000|360|0|OCR|0
+-|26570|Female|True|2|Not Graduate|True|26460|24699.0|40000|360|0|RCR|0
+-|26571|Female|False|1|Not Graduate|True|89195|22255.0|10000|360|1|OCR|0
+-|26572|Male|False|1|Graduate|True|87434|35997.0|10000|300|1|RCR|1
+-|26574|Male|False|0|Graduate|True|99900|32510.0|40000|180|1|CCR|1
+-|26576|Male|True|4|Not Graduate|True|20302|30395.0|30000|180|0|CCR|1
+-|26577|Female|True|3|Graduate|False|72107|23794.0|20000|60|0|CCR|0
+-|26578|Female|True|1|Not Graduate|True|75584||20000|300|1|RCR|1
+-|26579|Male|True|4|Graduate|True|56459|8620.0|10000|60|0|RCR|0
+-|26580|Male|True|3|Graduate|True|15863|15663.0|20000|300|0|RCR|1
+-|26582|Male|True|0|Graduate|True|88427|18033.0|10000|360|1|RCR|1
+-|26583|Male|True|4|Not Graduate|False|51275|42961.0|50000|240|1|OCR|1
+-|26584|Female|False|2|Not Graduate|True|75932|46589.0|30000|360|1|CCR|1
+-|26585|Female|True|2|Not Graduate|False|18810|38348.0|50000|120|0|OCR|0
+-|26586|Female|True|0|Not Graduate|False|54001|1600.0|30000|300|0|RCR|1
+-|26587|Male|False|2|Not Graduate|True|18289|3341.0|20000|300|1|RCR|0
+-|26588|Male|True|3|Not Graduate|False|69162||50000|300|1|OCR|1
+-|26589|Female|True|3|Not Graduate|True|99646|1238.0|40000|360|1|OCR|1
+-|26590|Female|True|0|Not Graduate|True|61745|34233.0|30000|120|1|RCR|0
+-|26591|Female|True|1|Not Graduate|False|6038|2326.0|10000|300|1|OCR|0
+-|26595|Male|False|3|Not Graduate|False|96133|5810.0|50000|60|1|RCR|1
+-|26596|Male|False|4|Not Graduate|False|60461|40302.0|60000|300|0|RCR|1
+-|26597|Male|False|2|Graduate|False|62931|19533.0|40000|60|0|OCR|0
+-|26598|Female|True|4|Graduate|False|62144|45183.0|40000|360|1|RCR|1
+-|26599|Male|False|4|Not Graduate|False|77078|31019.0|40000|240|1|CCR|1
+-|26600|Female|True|1|Graduate|True|29504|33028.0|20000|180|1|OCR|0
+-|26602|Male|False|4|Not Graduate|True|32698|15186.0|60000|360|1|RCR|1
+-|26603|Female|True|1|Graduate|True|92171|16469.0|30000|180|1|OCR|1
+-|26604|Male|True|1|Not Graduate|False|26092|22079.0|40000|360|0|RCR|1
+-|26605|Male|True|1|Graduate|True|60196|21287.0|10000|120|1|RCR|0
+-|26606|Female|True|0|Not Graduate|False|59128|26194.0|60000|120|0|RCR|1
+-|26607|Female|True|3|Graduate|True|19026|24537.0|60000|240|1|CCR|0
+-|26608|Female|False|2|Graduate|True|17804|48331.0|20000|300|1|OCR|1
+-|26609|Female|True|3|Graduate|True|47936|35079.0|30000|360|1|RCR|0
+-|26610|Male|True|1|Not Graduate|False|3173|41599.0|50000|120|1|OCR|0
+-|26611|Male|True|2|Graduate|True|79913|23767.0|10000|240|1|OCR|1
+-|26612|Female|True|2|Graduate|False|63267|40522.0|60000|300|0|OCR|0
+-|26614|Male|False|1|Not Graduate|True|52086|12662.0|30000|240|1|CCR|0
+-|26615|Male|False|1|Not Graduate|False|71461||50000|300|0|RCR|0
+-|26617|Female|True|0|Not Graduate|False|86836|9441.0|50000|120|1|CCR|1
+-|26618|Female|False|4|Graduate|False|72643|16264.0|10000|180|1|OCR|1
+-|26619|Male|False|0|Not Graduate|True|29370|45862.0|10000|300|1|OCR|1
+-|26621|Male|False|0|Not Graduate|True|55681|36133.0|30000|360|0|OCR|0
+-|26622|Male|False|1|Not Graduate|False|58623|32873.0|40000|60|0|OCR|1
+-|26623|Male|False|0|Not Graduate|True|36238||30000|60|1|OCR|1
+-|26624|Female|True|0|Not Graduate|True|61100|9224.0|60000|360|1|CCR|0
+-|26625|Male|False|2|Graduate|True|85258|49908.0|20000|120|1|CCR|1
+-|26626|Male|False|2|Not Graduate|True|73325||50000|360|1|OCR|0
+-|26627|Male|False|2|Not Graduate|False|99476|17039.0|50000|120|1|OCR|1
+-|26629|Male|False|2|Not Graduate|True|29896|5941.0|60000|60|1|OCR|1
+-|26630|Male|True|0|Not Graduate|False|38402|2292.0|20000|300|1|OCR|0
+-|26631|Male|False|1|Not Graduate|True|59501|45163.0|10000|360|1|RCR|1
+-|26632|Male|False|3|Graduate|False|2552|26556.0|50000|360|0|OCR|0
+-|26633|Male|False|0|Graduate|True|39571|23265.0|40000|60|1|RCR|0
+-|26635|Female|True|1|Not Graduate|False|98126|44027.0|40000|360|0|OCR|1
+-|26636|Male|True|3|Not Graduate|False|5090|7807.0|10000|300|0|OCR|1
+-|26638|Female|False|4|Not Graduate|True|82180|32391.0|50000|120|1|OCR|1
+-|26640|Female|True|3|Graduate|False|38588|30382.0|30000|180|1|OCR|1
+-|26641|Male|True|4|Graduate|True|3133|39371.0|50000|60|0|OCR|0
+-|26642|Male|True|4|Not Graduate|True|26422||10000|180|1|OCR|0
+-|26643|Female|False|0|Graduate|True|54794|17209.0|40000|240|1|OCR|0
+-|26644|Male|False|0|Not Graduate|False|76382|7046.0|20000|60|1|OCR|0
+-|26645|Female|False|2|Not Graduate|False|93470|7182.0|30000|360|1|CCR|0
+-|26646|Female|False|2|Not Graduate|False|78894||30000|60|1|RCR|1
+-|26647|Female|False|0|Graduate|True|49058|13574.0|10000|300|0|RCR|0
+-|26648|Female|True|3|Not Graduate|False|52422|45977.0|30000|180|1|CCR|1
+-|26649|Male|False|1|Not Graduate|False|41041|23605.0|40000|60|0|RCR|1
+-|26650|Female|False|2|Not Graduate|True|39074|23756.0|30000|300|0|CCR|0
+-|26651|Female|False|4|Graduate|False|98092|39091.0|10000|180|1|RCR|0
+-|26652|Male|False|4|Graduate|False|71330|17712.0|50000|120|1|OCR|0
+-|26653|Female|True|3|Not Graduate|True|44083||10000|240|0|OCR|0
+-|26654|Female|False|1|Graduate|False|24080|46318.0|50000|120|0|OCR|1
+-|26655|Male|True|2|Not Graduate|False|58707|33385.0|20000|60|1|OCR|0
+-|26656|Male|False|1|Not Graduate|False|82110|11089.0|40000|360|1|RCR|0
+-|26658|Female|False|4|Graduate|False|72295||40000|360|1|OCR|1
+-|26659|Male|False|4|Not Graduate|True|56272||60000|300|1|OCR|1
+-|26660|Female|False|2|Not Graduate|False|86351|35562.0|30000|360|1|OCR|1
+-|26661|Male|False|2|Not Graduate|True|94213|6998.0|10000|360|0|OCR|1
+-|26662|Female|True|3|Not Graduate|True|56350|5756.0|10000|300|1|OCR|1
+-|26664|Female|False|1|Graduate|True|36590||40000|180|1|OCR|0
+-|26665|Male|False|0|Not Graduate|True|31658|4264.0|60000|240|1|OCR|1
+-|26666|Male|True|2|Not Graduate|True|94906|37190.0|60000|120|1|OCR|0
+-|26668|Male|True|0|Graduate|True|93578|42191.0|60000|360|1|OCR|0
+-|26669|Male|True|1|Graduate|False|91386|39253.0|10000|300|1|CCR|0
+-|26671|Male|False|3|Not Graduate|True|45999|33531.0|50000|300|1|CCR|1
+-|26672|female|True|3|Not Graduate|False|80018|15128.0|20000|240|1|CCR|1
+-|26673|Female|True|3|Not Graduate|False|55820|34111.0|30000|120|1|CCR|1
+-|26674|female|False|3|Not Graduate|True|27392|1751.0|40000|180|0|CCR|0
+-|26675|female|True|3|Not Graduate|True|13127|42793.0|30000|300|0|RCR|1
+-|26676|Male|True|0|Graduate|True|12666|17981.0|60000|240|1|CCR|1
+-|26677|Male|True|4|Not Graduate|True|58976|18406.0|40000|360|1|OCR|1
+-|26678|Male|True|0|Graduate|False|63716|47773.0|20000|120|1|OCR|1
+-|26679|Male|False|1|Graduate|False|52598|22898.0|30000|120|1|CCR|0
+-|26680|Male|False|1|Not Graduate|False|49093|26284.0|40000|180|1|RCR|1
+-|26681|Male|False|1|Not Graduate|True|60196|8652.0|40000|240|0|CCR|0
+-|26682|Male|False|4|Graduate|True|98940||10000|360|1|OCR|1
+-|26683|Male|False|4|Graduate|False|67902|22149.0|20000|360|0|OCR|1
+-|26685|male|True|2|Not Graduate|True|51984|17815.0|60000|120|1|CCR|1
+-|26686|male|True|0|Graduate|True|55450|8965.0|10000|60|0|OCR|0
+-|26687|Female|True|0|Not Graduate|True|62169|25165.0|60000|300|0|RCR|1
+-|26688|Female|True|2|Not Graduate|True|56292|49976.0|30000|240|0|OCR|1
+-|26689|Male|False|1|Graduate|True|97034|15168.0|30000|120|1|RCR|1
+-|26690|Male|True|2|Not Graduate|False|30304|19129.0|10000|360|1|CCR|1
+-|26691|Male|False|2|Graduate|True|77620|5775.0|60000|360|0|OCR|0
+-|26692|Male|True|2|Not Graduate|True|15855|15820.0|50000|240|1|OCR|0
+-|26693|Male|True|1|Not Graduate|True|71980|33822.0|20000|60|0|OCR|1
+-|26695|Male|True|3|Not Graduate|True|28825|37582.0|10000|120|0|OCR|1
+-|26696|Male|True|3|Not Graduate|True|63827|20221.0|60000|300|1|CCR|1
+-|26697|Male|False|2|Not Graduate|True|61130||40000|240|1|RCR|0
+-|26699|Female|False|2|Not Graduate|True|19145|38183.0|10000|180|1|CCR|0
+-|26701|Male|False|0|Not Graduate|True|91605|49054.0|50000|120|1|CCR|1
+-|26702|Male|False|1|Not Graduate|True|50932|39070.0|50000|240|1|OCR|1
+-|26703|Male|False|1|Not Graduate|False|1614|20267.0|10000|360|1|RCR|0
+-|26704|Male|True|3|Not Graduate|True|7081|45942.0|60000|240|1|OCR|1
+-|26705|Male|True|3|Not Graduate|True|11396|34594.0|40000|180|0|CCR|1
+-|26706|Male|True|1|Not Graduate|False|7528|8022.0|40000|120|0|CCR|1
+-|26707|Male|False|0|Graduate|True|52348|19498.0|40000|180|1|OCR|0
+-|26708|Female|False|1|Graduate|True|31009|36032.0|10000|300|1|OCR|1
+-|26709|Female|True|0|Not Graduate|True|31725|6080.0|10000|360|1|RCR|1
+-|26710|Female|False|1|Graduate|False|88259|29219.0|10000|120|1|OCR|1
+-|26711|Male|False|0|Graduate|True|18363||60000|240|1|OCR|1
+-|26712|Female|True|2|Not Graduate|False|84148|33010.0|50000|300|0|RCR|0
+-|26713|Male|True|3|Not Graduate|True|75129|5205.0|60000|120|0|CCR|1
+-|26714|Male|False|2|Not Graduate|True|26117||50000|120|0|OCR|1
+-|26715|Female|False|0|Graduate|True|64296|8412.0|50000|300|0|CCR|1
+-|26716|Male|True|4|Graduate|True|52101|5182.0|60000|180|1|RCR|1
+-|26717|Female|False|0|Not Graduate|True|89866|28871.0|30000|300|1|CCR|1
+-|26718|Male|False|2|Not Graduate|True|32723|39333.0|20000|180|1|CCR|0
+-|26719|Male|True|2|Graduate|True|19629|25447.0|20000|120|1|RCR|1
+-|26720|Female|True|2|Not Graduate|True|38033|44797.0|10000|360|1|CCR|1
+-|26721|Female|False|1|Graduate|False|85282|8744.0|20000|120|0|OCR|1
+-|26723|Male|True|1|Not Graduate|False|80208|49851.0|20000|300|0|OCR|1
+-|26724|Male|True|3|Graduate|True|50617|16667.0|10000|180|1|OCR|1
+-|26725|Male|True|4|Not Graduate|False|86960|19510.0|60000|360|1|RCR|0
+-|26726|Male|True|2|Not Graduate|True|4477||20000|240|1|CCR|0
+-|26727|Male|False|1|Graduate|False|71038|16247.0|50000|120|1|OCR|1
+-|26729|Male|True|4|Not Graduate|True|54602|1063.0|10000|120|0|CCR|0
+-|26730|Male|False|3|Not Graduate|True|95301|8812.0|30000|300|1|CCR|1
+-|26731|Female|True|3|Graduate|False|38136|15517.0|30000|240|1|OCR|1
+-|26732|Female|False|1|Not Graduate|True|97758|40428.0|30000|120|1|RCR|1
+-|26733|Male|True|2|Not Graduate|False|41050|43109.0|30000|120|0|OCR|1
+-|26734|Male|True|3|Graduate|False|5480||20000|300|0|CCR|0
+-|26735|Male|False|1|Graduate|False|55936|22937.0|30000|60|0|RCR|0
+-|26736|Male|True|2|Not Graduate|False|14784|6344.0|20000|240|1|RCR|1
+-|26737|Male|False|3|Graduate|True|21226|9637.0|50000|180|0|OCR|1
+-|26738|Male|False|3|Not Graduate|True|22797|49249.0|50000|360|1|OCR|1
+-|26739|Male|False|3|Not Graduate|True|37450|44875.0|40000|60|1|OCR|1
+-|26740|Female|True|4|Not Graduate|True|1632|14087.0|50000|360|0|OCR|1
+-|26741|Male|False|2|Not Graduate|True|15897|41034.0|20000|180|0|OCR|0
+-|26742|Male|False|3|Graduate|False|62588|38139.0|50000|180|1|OCR|1
+-|26743|Male|True|0|Not Graduate|True|91087|13256.0|30000|180|0|RCR|1
+-|26744|Male|False|2|Graduate|True|94930|16887.0|20000|240|1|CCR|0
+-|26745|Male|False|0|Graduate|True|62892|49238.0|20000|360|0|CCR|1
+-|26746|Male|False|4|Not Graduate|False|26687|44584.0|60000|60|1|RCR|0
+-|26747|Male|False|3|Not Graduate|False|6408|7997.0|40000|300|1|CCR|0
+-|26748|Male|True|2|Not Graduate|True|63190|45199.0|60000|180|0|OCR|1
+-|26749|Female|False|4|Not Graduate|False|17194|8767.0|10000|240|1|OCR|1
+-|26750|Male|True|1|Not Graduate|True|92040|3552.0|50000|360|0|RCR|0
+-|26751|Female|False|0|Not Graduate|True|92715|4722.0|30000|300|1|RCR|0
+-|26752|Male|False|3|Graduate|False|77432|9561.0|20000|360|1|OCR|0
+-|26753|Male|True|1|Not Graduate|False|71413|2799.0|50000|180|0|RCR|0
+-|26754|Female|False|4|Graduate|True|13783|27128.0|10000|120|1|RCR|1
+-|26755|Male|False|2|Graduate|True|59748||30000|240|1|RCR|0
+-|26757|Female|False|0|Not Graduate|False|15551|46858.0|10000|120|1|OCR|1
+-|26758|Female|False|1|Not Graduate|True|44172|49595.0|10000|300|1|OCR|1
+-|26759|Male|True|3|Graduate|False|14505||30000|180|1|CCR|0
+-|26760|Male|True|3|Not Graduate|False|80041|25980.0|50000|240|1|OCR|1
+-|26761|Female|False|2|Graduate|True|74416|33897.0|10000|120|0|OCR|0
+-|26762|Male|True|2|Not Graduate|False|36978|8622.0|50000|300|1|OCR|1
+-|26765|Male|False|3|Not Graduate|False|89168|46086.0|10000|240|0|RCR|1
+-|26766|Male|False|4|Graduate|True|71141||30000|360|1|CCR|1
+-|26767|Female|True|0|Graduate|True|1101|18437.0|60000|180|0|CCR|1
+-|26768|Male|True|0|Graduate|True|30132|8829.0|20000|360|0|OCR|1
+-|26769|Female|True|4|Graduate|True|58665|40616.0|30000|240|1|CCR|0
+-|26770|Male|False|2|Not Graduate|False|79509|43794.0|40000|120|0|OCR|1
+-|26771|Female|True|2|Not Graduate|True|99204|40364.0|10000|180|0|CCR|1
+-|26772|Male|False|4|Graduate|False|61032|20598.0|60000|240|1|OCR|1
+-|26773|Male|True|4|Not Graduate|True|71792|1955.0|50000|120|1|OCR|1
+-|26774|Male|True|1|Not Graduate|True|30225|18456.0|40000|180|1|OCR|0
+-|26775|Male|False|0|Not Graduate|False|47672|38550.0|60000|180|1|OCR|0
+-|26776|Male|True|3|Not Graduate|True|62890||20000|60|0|RCR|0
+-|26777|Male|True|4|Not Graduate|True|37547|28211.0|10000|60|1|OCR|0
+-|26778|Male|False|0|Not Graduate|False|77375|12480.0|20000|180|1|CCR|1
+-|26779|Male|False|1|Not Graduate|True|82627|2009.0|10000|60|1|OCR|1
+-|26780|Female|True|4|Graduate|False|61172|27125.0|40000|180|1|CCR|1
+-|26782|Male|True|3|Not Graduate|False|39273|7454.0|60000|240|0|RCR|0
+-|26783|Male|False|4|Not Graduate|False|85226|16941.0|40000|360|1|RCR|0
+-|26784|Female|False|4|Not Graduate|False|76719|18520.0|50000|360|0|OCR|1
+-|26785|Male|True|3|Graduate|True|69457|10587.0|30000|180|0|OCR|0
+-|26786|Female|True|3|Graduate|False|79069|1996.0|10000|180|1|OCR|1
+-|26787|Female|True|3|Not Graduate|True|73333|15769.0|50000|120|1|OCR|1
+-|26788|Male|False|0|Not Graduate|False|5459|17158.0|30000|300|0|OCR|0
+-|26789|Female|False|3|Graduate|True|36579||40000|240|1|RCR|1
+-|26790|Male|True|1|Not Graduate|False|95816|28943.0|40000|300|0|OCR|0
+-|26791|Male|True|0|Graduate|True|62290|44591.0|40000|180|1|OCR|1
+-|26792|Male|False|3|Graduate|False|13257|24774.0|20000|60|1|OCR|1
+-|26793|Male|False|2|Not Graduate|False|72610|40303.0|50000|120|0|CCR|1
+-|26794|Male|True|2|Not Graduate|True|94511|41808.0|10000|360|1|OCR|0
+-|26795|Male|False|4|Not Graduate|False|14909|10912.0|10000|300|1|OCR|1
+-|26796|Male|True|0|Not Graduate|True|7806|8719.0|60000|120|1|OCR|1
+-|26797|Male|False|1|Graduate|True|63266|28384.0|30000|360|1|OCR|0
+-|26798|Female|True|4|Graduate|True|89029|21170.0|30000|300|1|OCR|1
+-|26799|Male|True|1|Not Graduate|True|27371|31063.0|40000|240|1|OCR|1
+-|26801|Male|False|3|Graduate|True|91174|47241.0|60000|60|1|OCR|0
+-|26802|Male|True|3|Not Graduate|False|23741|1690.0|20000|180|1|OCR|0
+-|26803|Male|True|3|Not Graduate|True|72574|31506.0|40000|300|1|CCR|0
+-|26804|Male|True|4|Not Graduate|True|25441|26587.0|50000|240|1|OCR|1
+-|26805|Male|True|1|Not Graduate|False|61565|11906.0|60000|360|1|OCR|0
+-|26806|Male|False|4|Not Graduate|True|49517|7287.0|30000|360|1|RCR|1
+-|26807|Male|False|0|Not Graduate|True|63305|35259.0|30000|360|1|OCR|1
+-|26808|Male|True|4|Graduate|False|77993|45111.0|60000|60|1|CCR|1
+-|26810|Male|True|3|Not Graduate|True|6610|25961.0|60000|180|1|CCR|0
+-|26811|Female|False|3|Graduate|False|87779|45806.0|40000|180|1|OCR|1
+-|26812|Male|False|4|Graduate|True|5773|44518.0|60000|240|0|OCR|1
+-|26814|Male|False|2|Not Graduate|True|54009||30000|240|1|OCR|1
+-|26816|Female|False|2|Graduate|False|30770|16217.0|40000|240|1|RCR|1
+-|26817|Male|True|2|Graduate|True|50815|8260.0|50000|360|1|OCR|0
+-|26819|Male|False|2|Not Graduate|True|89649|32409.0|20000|60|0|RCR|0
+-|26820|Male|True|3|Graduate|True|81430|43618.0|20000|120|1|OCR|1
+-|26821|Male|False|4|Graduate|True|38000|20267.0|60000|120|1|OCR|0
+-|26822|Female|True|0|Not Graduate|True|34047|5918.0|30000|180|0|CCR|1
+-|26823|Female|False|2|Graduate|False|44331|44589.0|60000|120|0|OCR|1
+-|26824|Female|False|2|Graduate|True|24705|21215.0|60000|180|1|OCR|1
+-|26826|Male|False|1|Not Graduate|False|45199|36413.0|10000|120|1|OCR|0
+-|26827|Female|False|1|Graduate|True|28881|24888.0|20000|120|0|RCR|1
+-|26828|Male|False|4|Not Graduate|False|1965|13958.0|30000|60|0|CCR|1
+-|26829|Male|False|3|Graduate|False|63558|10692.0|20000|300|1|CCR|1
+-|26830|Male|False|0|Not Graduate|True|93301|18098.0|20000|120|0|RCR|1
+-|26831|Male|True|4|Not Graduate|False|5039|14567.0|20000|240|1|CCR|1
+-|26832|Male|False|3|Not Graduate|False|58005|25519.0|60000|180|0|RCR|1
+-|26833|Male|True|0|Not Graduate|False|55871||20000|360|1|CCR|1
+-|26834|Female|True|4|Not Graduate|False|11785|19567.0|20000|240|0|OCR|1
+-|26835|Male|True|1|Graduate|True|6431|4210.0|20000|60|1|OCR|1
+-|26836|Female|False|1|Graduate|True|17603|27983.0|30000|360|1|OCR|0
+-|26837|Male|True|2|Graduate|False|60838|25313.0|20000|60|0|OCR|1
+-|26838|Female|True|0|Not Graduate|True|21749|13568.0|10000|180|1|CCR|0
+-|26839|Male|False|0|Not Graduate|True|94910|32416.0|50000|360|0|OCR|1
+-|26840|Female|False|2|Graduate|False|60752||40000|180|1|CCR|0
+-|26842|Male|False|3|Graduate|True|97900|17251.0|40000|60|1|RCR|1
+-|26843|Male|False|0|Graduate|True|12013|20429.0|30000|120|0|RCR|1
+-|26844|Female|True|3|Not Graduate|True|19315|36635.0|40000|120|0|CCR|0
+-|26845|Female|False|1|Graduate|True|9368|21915.0|30000|300|1|OCR|0
+-|26846|Male|True|3|Not Graduate|True|86221|40202.0|10000|360|1|RCR|1
+-|26847|Female|True|4|Not Graduate|True|63639||30000|240|1|OCR|0
+-|26848|Female|True|0|Graduate|False|59646|9171.0|60000|360|0|CCR|0
+-|26850|Male|True|4|Not Graduate|False|1196|13055.0|30000|120|1|CCR|0
+-|26851|Male|False|2|Not Graduate|False|97525|31697.0|20000|360|1|CCR|1
+-|26852|Male|True|4|Graduate|False|5902|34051.0|60000|360|1|CCR|1
+-|26853|Male|True|3|Not Graduate|False|40434|41512.0|10000|60|0|RCR|1
+-|26854|Male|False|1|Not Graduate|True|64490|45395.0|40000|300|1|OCR|1
+-|26856|Male|True|0|Not Graduate|True|14537||30000|120|1|CCR|1
+-|26857|Male|False|1|Graduate|True|47362|39729.0|50000|300|0|RCR|1
+-|26858|Female|False|0|Graduate|True|54892|20992.0|10000|180|1|CCR|1
+-|26859|Male|True|3|Graduate|True|51011|43648.0|60000|300|1|OCR|0
+-|26860|Male|False|1|Not Graduate|False|52659|43765.0|60000|240|0|RCR|1
+-|26861|Male|False|1|Graduate|False|25803|16354.0|50000|240|1|OCR|1
+-|26862|Female|False|2|Graduate|True|25789|26839.0|50000|60|1|OCR|1
+-|26863|Male|False|3|Not Graduate|False|28123|13674.0|50000|240|0|OCR|1
+-|26864|Male|True|1|Graduate|False|95079|5767.0|50000|360|0|OCR|1
+-|26865|Male|False|1|Graduate|True|62365|36566.0|10000|180|1|OCR|1
+-|26866|Male|True|1|Graduate|False|9793|43656.0|20000|180|1|RCR|1
+-|26867|Female|True|1|Not Graduate|True|48461||20000|180|0|OCR|0
+-|26868|Female|True|2|Not Graduate|False|28256|19259.0|20000|60|1|OCR|1
+-|26869|Female|False|3|Graduate|True|76505|22336.0|20000|360|0|RCR|1
+-|26870|Female|False|1|Not Graduate|False|99289|19088.0|10000|120|0|RCR|1
+-|26872|Male|False|2|Graduate|True|43078|19738.0|20000|300|1|RCR|1
+-|26873|Female|True|3|Not Graduate|True|57334|19688.0|50000|360|1|OCR|1
+-|26874|Female|True|1|Graduate|False|97780|6392.0|60000|240|1|OCR|1
+-|26881|Male|True|0|Graduate|False|33015|44743.0|10000|240|0|RCR|0
+-|26882|Male|False|2|Not Graduate|True|73247|39321.0|40000|240|0|OCR|0
+-|26883|Male|True|1|Graduate|True|84420|6188.0|20000|180|1|CCR|0
+-|26884|Female|False|3|Not Graduate|True|83589|29624.0|10000|120|1|OCR|1
+-|26885|Male|False|3|Not Graduate|True|44215|2039.0|20000|240|0|OCR|1
+-|26886|Female|True|2|Not Graduate|False|71852|40980.0|50000|300|0|OCR|1
+-|26887|Male|False|0|Graduate|True|50287|17543.0|30000|240|1|OCR|1
+-|26888|Female|True|4|Graduate|False|87241||50000|360|0|RCR|1
+-|26889|Female|True|0|Not Graduate|False|52765|2228.0|10000|240|1|RCR|1
+-|26890|Male|False|4|Not Graduate|True|36859|11348.0|40000|360|0|RCR|1
+-|26891|Female|False|1|Not Graduate|False|37008|41310.0|10000|180|0|CCR|1
+-|26892|Male|False|4|Graduate|False|89254|1692.0|50000|240|0|CCR|1
+-|26893|Male|True|0|Graduate|True|18712|46594.0|60000|360|1|OCR|1
+-|26894|Male|True|3|Not Graduate|False|41399|20518.0|30000|360|1|OCR|1
+-|26895|Male|True|0|Not Graduate|False|56726|32442.0|10000|120|1|OCR|0
+-|26896|Male|True|2|Not Graduate|True|79453|10329.0|20000|120|0|OCR|1
+-|26897|F|False|1|Not Graduate|False|64062|28149.0|20000|180|0|RCR|0
+-|26898|Female|False|3|Not Graduate|True|47726|16131.0|40000|240|0|OCR|1
+-|26899|F|False|4|Not Graduate|False|17681||50000|300|0|OCR|1
+-|26900|Male|False|1|Not Graduate|True|19450|10184.0|60000|360|1|OCR|0
+-|26901|Female|False|3|Graduate|False|86373|29962.0|20000|60|1|OCR|1
+-|26902|Female|False|3|Not Graduate|False|94643||30000|120|1|CCR|1
+-|26903|Female|False|3|Graduate|True|1045|22578.0|30000|300|0|CCR|1
+-|26904|Male|True|3|Graduate|False|17581||50000|60|1|OCR|1
+-|26905|Male|False|3|Graduate|True|73544|3566.0|60000|240|1|RCR|1
+-|26906|Male|False|4|Not Graduate|True|81507|42536.0|20000|360|0|CCR|1
+-|26907|Female|True|4|Not Graduate|False|6547|4928.0|30000|300|1|OCR|1
+-|26908|Male|False|2|Not Graduate|True|51051|15290.0|20000|240|1|OCR|1
+-|26909|Male|True|1|Graduate|False|10927|46545.0|10000|60|0|RCR|1
+-|26910|Male|True|2|Graduate|True|5691|33271.0|20000|180|1|OCR|0
+-|26911|Female|True|2|Not Graduate|False|25130||60000|360|0|RCR|1
+-|26913|Male|False|1|Not Graduate|True|83106|8160.0|10000|360|1|RCR|1
+-|26915|Male|False|0|Graduate|True|6603|41140.0|60000|240|1|CCR|1
+-|26916|Female|True|0|Not Graduate|True|30043|7463.0|50000|60|1|OCR|1
+-|26917|Male|True|4|Graduate|True|90696|5074.0|20000|120|0|CCR|1
+-|26918|Male|True|4|Graduate|True|97793||10000|360|0|RCR|0
+-|26919|Female|True|2|Not Graduate|True|88499|7511.0|30000|360|1|CCR|1
+-|26920|Female|False|0|Graduate|False|77326||60000|120|0|OCR|0
+-|26922|Male|False|0|Graduate|True|70844|26985.0|20000|180|0|RCR|1
+-|26924|Male|True|0|Not Graduate|False|57130|9173.0|50000|300|1|CCR|1
+-|26925|Male|False|0|Graduate|False|49909|2229.0|10000|180|1|RCR|0
+-|26926|Female|True|4|Not Graduate|False|42072|15479.0|20000|60|1|CCR|1
+-|26927|Male|False|3|Graduate|False|9470||50000|300|1|RCR|1
+-|26928|Male|False|1|Not Graduate|True|53580|39531.0|40000|360|0|CCR|1
+-|26929|Male|True|4|Not Graduate|True|28987|10149.0|60000|240|0|RCR|0
+-|26930|Male|False|4|Graduate|False|23296|3852.0|40000|360|1|RCR|1
+-|26931|Female|True|3|Not Graduate|False|87888||30000|360|0|OCR|1
+-|26932|Male|True|2|Not Graduate|True|53953|20179.0|20000|60|1|CCR|1
+-|26933|Male|True|4|Graduate|True|62415|25375.0|40000|360|1|RCR|1
+-|26934|Female|True|3|Graduate|False|68773|9142.0|50000|60|0|OCR|1
+-|26935|Male|False|0|Not Graduate|True|63811|10352.0|40000|300|1|RCR|0
+-|26936|Male|True|4|Not Graduate|True|47805|36610.0|50000|240|0|OCR|1
+-|26937|Male|True|3|Not Graduate|True|63232|25914.0|60000|300|1|RCR|1
+-|26938|Male|True|3|Not Graduate|True|4483|13595.0|60000|180|1|OCR|1
+-|26939|Female|True|3|Graduate|False|58135|5083.0|10000|180|0|OCR|1
+-|26940|Male|False|3|Not Graduate|True|93614|25234.0|20000|60|1|OCR|1
+-|26942|Male|True|2|Not Graduate|True|99831|7322.0|50000|180|0|OCR|1
+-|26944|Male|False|3|Not Graduate|False|20576|35245.0|30000|360|1|RCR|0
+-|26945|Male|False|3|Not Graduate|True|58636|35409.0|50000|60|0|OCR|0
+-|26946|Male|False|2|Not Graduate|False|53464|7763.0|40000|360|1|OCR|1
+-|26947|Female|False|3|Not Graduate|False|18824|16099.0|60000|240|1|CCR|0
+-|26948|Male|False|2|Not Graduate|True|42229|29396.0|30000|240|1|CCR|1
+-|26949|Male|False|3|Graduate|True|88812|45105.0|10000|120|0|OCR|0
+-|26950|Male|True|4|Graduate|False|86288|30556.0|40000|300|1|CCR|0
+-|26952|Male|False|2|Not Graduate|False|13746|49431.0|30000|180|1|OCR|1
+-|26953|Male|True|4|Not Graduate|True|92388||40000|120|1|RCR|1
+-|26954|Male|False|2|Not Graduate|False|19784|15313.0|60000|60|1|OCR|0
+-|26955|Female|False|2|Graduate|False|13131|6717.0|20000|360|0|OCR|1
+-|26956|Male|False|0|Graduate|True|86603|23968.0|30000|60|1|RCR|0
+-|26957|Female|True|2|Not Graduate|False|40360|5649.0|60000|240|1|OCR|1
+-|26959|Female|False|2|Not Graduate|False|63631|4519.0|50000|60|1|OCR|1
+-|26960|Male|True|2|Not Graduate|True|40260|42561.0|20000|180|1|CCR|1
+-|26962|Male|True|1|Not Graduate|True|53124|25498.0|20000|120|1|OCR|1
+-|26963|Female|False|4|Graduate|True|48695|46140.0|60000|300|1|OCR|0
+-|26965|Male|False|0|Not Graduate|True|64169|11836.0|30000|60|1|OCR|0
+-|26966|Female|True|4|Graduate|False|59348|35417.0|40000|240|1|OCR|0
+-|26967|Male|True|4|Graduate|True|91523||50000|240|1|RCR|1
+-|26968|Female|False|2|Graduate|False|58530|44968.0|50000|300|1|OCR|1
+-|26969|Female|True|1|Not Graduate|False|58568|18559.0|60000|180|1|CCR|1
+-|26971|Male|False|3|Graduate|False|79858|37490.0|50000|120|1|OCR|1
+-|26972|Male|True|2|Graduate|True|65477|26048.0|40000|360|0|RCR|0
+-|26973|Female|False|4|Graduate|False|54573|18371.0|50000|300|1|CCR|1
+-|26974|Male|False|2|Not Graduate|True|51750||30000|300|1|CCR|1
+-|26975|Male|False|4|Not Graduate|True|40921|48255.0|60000|360|0|OCR|1
+-|26976|Female|True|4|Not Graduate|False|64917|38065.0|30000|240|1|CCR|1
+-|26977|Female|True|3|Not Graduate|False|41671|4384.0|60000|180|1|RCR|0
+-|26978|Male|False|2|Not Graduate|False|59510|31371.0|50000|120|1|CCR|1
+-|26979|Male|False|2|Not Graduate|False|37454|31628.0|20000|60|1|RCR|1
+-|26980|Male|False|1|Graduate|False|14620|11009.0|40000|300|1|OCR|1
+-|26982|Male|True|2|Not Graduate|True|53108|1554.0|50000|360|1|OCR|1
+-|26983|Female|False|3|Not Graduate|False|88240|41163.0|30000|180|0|OCR|0
+-|26984|Female|True|0|Not Graduate|True|41704|20378.0|40000|60|1|OCR|1
+-|26985|Male|True|0|Graduate|True|41398|4112.0|20000|120|1|OCR|0
+-|26986|Female|True|1|Not Graduate|True|99170|27966.0|40000|180|1|OCR|0
+-|26987|Male|False|3|Graduate|True|89271|7842.0|40000|360|1|OCR|1
+-|26988|Female|False|4|Not Graduate|False|16279|8057.0|50000|60|0|OCR|1
+-|26989|Female|False|0|Not Graduate|True|35575|28901.0|20000|60|0|OCR|1
+-|26991|Female|False|0|Not Graduate|True|56926|22670.0|30000|180|1|RCR|1
+-|26992|Female|True|1|Not Graduate|False|14055||10000|60|0|OCR|0
+-|26993|Female|True|4|Graduate|False|27712|29978.0|30000|240|1|OCR|1
+-|26995|Female|True|2|Not Graduate|False|29210|22485.0|10000|120|0|OCR|1
+-|26998|Male|False|1|Graduate|True|71833|39148.0|10000|300|1|CCR|0
+-|26999|Female|False|0|Graduate|True|68790|33630.0|30000|120|1|RCR|1
+-|27000|Male|True|0|Graduate|True|13114||40000|60|0|RCR|1
+-|27001|Male|False|3|Not Graduate|False|90078|3098.0|20000|60|0|OCR|0
+-|27002|Male|True|4|Not Graduate|True|81607|36483.0|40000|60|1|RCR|0
+-|27003|Male|True|1|Not Graduate|True|24012|5712.0|50000|240|0|OCR|1
+-|27004|Male|True|4|Graduate|False|43433|13715.0|10000|60|1|CCR|0
+-|27005|Male|False|0|Not Graduate|False|20097|15175.0|20000|180|1|CCR|0
+-|27007|Male|True|1|Not Graduate|False|74982|36061.0|50000|180|1|CCR|1
+-|27008|Male|True|0|Graduate|True|86260|34935.0|30000|180|1|RCR|1
+-|27009|Female|True|2|Not Graduate|False|25486|27887.0|20000|120|0|OCR|1
+-|27010|Male|False|3|Not Graduate|True|32658||30000|300|1|RCR|1
+-|27011|Male|True|2|Not Graduate|False|91210|42881.0|40000|240|1|OCR|1
+-|27012|Female|True|2|Not Graduate|True|81916|13567.0|60000|360|1|RCR|0
+-|27013|Male|False|4|Not Graduate|True|33547|21839.0|50000|60|0|OCR|0
+-|27014|Male|False|0|Not Graduate|True|95426|36929.0|20000|120|1|CCR|0
+-|27015|Male|False|1|Not Graduate|False|97782|12184.0|60000|60|0|OCR|1
+-|27016|Male|False|3|Graduate|False|47015|11996.0|20000|300|0|CCR|1
+-|27017|Male|False|2|Not Graduate|True|48903|32192.0|10000|180|1|OCR|0
+-|27020|Female|True|1|Not Graduate|True|15086|20816.0|50000|180|1|CCR|1
+-|27021|Male|True|1|Not Graduate|True|74387|23653.0|60000|60|1|CCR|1
+-|27022|Male|False|4|Not Graduate|True|78962|4561.0|60000|60|1|OCR|1
+-|27023|Female|True|0|Not Graduate|True|91534|35846.0|20000|240|0|RCR|1
+-|27024|Female|False|4|Not Graduate|True|43525|23832.0|50000|120|0|OCR|0
+-|27027|Male|False|3|Not Graduate|True|53400|18996.0|10000|240|0|CCR|0
+-|27028|Male|False|2|Graduate|False|4533|5951.0|20000|360|0|CCR|0
+-|27030|Male|False|0|Not Graduate|True|76348|14319.0|50000|120|1|OCR|1
+-|27031|Male|False|2|Graduate|False|14866|28811.0|40000|240|0|OCR|0
+-|27032|Male|True|3|Not Graduate|False|61255|21392.0|30000|180|1|OCR|1
+-|27033|Male|False|0|Graduate|True|64264|47417.0|30000|180|1|OCR|0
+-|27034|Male|True|4|Not Graduate|True|98475|43177.0|60000|300|1|CCR|1
+-|27035|Male|False|2|Graduate|False|91007||60000|120|1|OCR|0
+-|27036|Female|True|1|Not Graduate|False|83223|24907.0|50000|60|0|OCR|1
+-|27037|Male|True|1|Graduate|False|49083|39543.0|20000|300|1|RCR|1
+-|27038|Male|True|3|Not Graduate|True|59081|22061.0|40000|120|1|CCR|1
+-|27039|Male|False|4|Not Graduate|True|39094|27214.0|50000|60|1|OCR|0
+-|27040|Female|True|4|Not Graduate|False|5464|8683.0|60000|360|1|OCR|0
+-|27041|Male|False|1|Not Graduate|True|59271|39486.0|30000|180|1|OCR|1
+-|27042|Male|False|2|Not Graduate|True|42362|28547.0|20000|60|0|OCR|0
+-|27043|Female|False|4|Graduate|False|7098|2207.0|20000|60|0|OCR|1
+-|27044|Female|False|0|Not Graduate|False|29325|29714.0|10000|60|1|CCR|1
+-|27045|Female|False|0|Graduate|True|10098|32140.0|30000|300|0|OCR|0
+-|27046|Female|True|0|Not Graduate|False|14326|7739.0|10000|360|0|OCR|1
+-|27048|Male|False|0|Graduate|True|88522|43565.0|30000|60|1|OCR|1
+-|27049|Male|False|0|Not Graduate|False|10621|17199.0|30000|240|0|CCR|1
+-|27050|Female|True|3|Not Graduate|True|20473|4327.0|60000|180|1|OCR|1
+-|27051|Male|True|4|Graduate|False|25790|26142.0|40000|240|1|OCR|1
+-|27052|Female|True|3|Not Graduate|True|55180|29366.0|60000|120|0|RCR|1
+-|27053|Female|False|0|Not Graduate|False|36525|14463.0|40000|240|1|CCR|0
+-|27054|Male|False|4|Not Graduate|False|13869|19287.0|50000|360|0|CCR|0
+-|27055|Male|False|1|Not Graduate|True|31245|31433.0|40000|360|1|CCR|1
+-|27056|Male|False|0|Not Graduate|True|88160|24231.0|50000|360|1|RCR|0
+-|27057|Male|True|2|Graduate|True|32957|28747.0|50000|360|1|RCR|0
+-|27059|Male|True|0|Not Graduate|True|58650|15380.0|30000|120|0|OCR|1
+-|27060|Male|True|3|Not Graduate|False|12617|20763.0|60000|60|1|CCR|1
+-|27061|Male|False|1|Graduate|True|28080|11843.0|40000|120|1|RCR|1
+-|27062|Female|True|1|Graduate|True|23072|23437.0|10000|180|1|OCR|1
+-|27063|Male|False|2|Not Graduate|False|41942||30000|360|1|CCR|1
+-|27064|Male|False|0|Graduate|False|63802|19310.0|60000|360|0|RCR|1
+-|27065|Male|False|0|Not Graduate|False|89591|5516.0|10000|240|1|OCR|1
+-|27067|Male|True|0|Not Graduate|True|33748|2135.0|50000|180|1|OCR|0
+-|27068|Male|True|3|Not Graduate|True|64529|20741.0|50000|360|1|RCR|1
+-|27069|Male|True|2|Graduate|False|2912|14553.0|10000|120|1|OCR|1
+-|27070|Female|False|2|Graduate|True|8392|32277.0|10000|180|1|RCR|1
+-|27071|Male|False|1|Graduate|True|31184|38395.0|30000|240|1|OCR|1
+-|27072|Male|False|1|Graduate|False|19812|19600.0|40000|360|0|RCR|1
+-|27073|Female|True|3|Not Graduate|False|74031|33139.0|50000|60|0|OCR|1
+-|27074|Male|False|3|Not Graduate|False|83403|24880.0|20000|60|1|OCR|1
+-|27075|Male|True|3|Not Graduate|True|15326|43271.0|30000|360|1|CCR|1
+-|27076|Female|False|0|Not Graduate|True|21031|2634.0|30000|180|0|RCR|1
+-|27077|Male|False|1|Not Graduate|True|87516|48789.0|40000|360|1|OCR|0
+-|27078|Male|False|4|Graduate|True|4609||30000|180|0|OCR|1
+-|27079|Female|False|1|Not Graduate|True|73566|32890.0|20000|60|1|RCR|0
+-|27080|Male|False|2|Not Graduate|False|70600|14523.0|30000|360|1|OCR|0
+-|27081|Male|False|2|Graduate|True|37613|8341.0|60000|240|1|OCR|1
+-|27083|Female|False|0|Not Graduate|True|32583|38887.0|40000|240|0|OCR|1
+-|27084|Male|True|3|Not Graduate|False|88620|43367.0|40000|180|0|CCR|0
+-|27085|Female|True|1|Graduate|True|20375|8454.0|20000|360|1|OCR|0
+-|27086|Female|False|4|Not Graduate|True|37128|6533.0|10000|360|0|OCR|1
+-|27087|Male|False|0|Graduate|True|84151|49873.0|30000|300|1|CCR|1
+-|27088|Female|True|2|Not Graduate|False|13563|7371.0|50000|120|0|OCR|0
+-|27089|Female|False|4|Not Graduate|False|34868|33386.0|50000|180|1|OCR|1
+-|27090|Male|False|3|Not Graduate|False|81443|9182.0|20000|240|1|CCR|0
+-|27091|-|True|1|Graduate|True|92552|16258.0|60000|360|1|RCR|0
+-|27092|-|True|0|Graduate|False|76468|4397.0|30000|240|1|OCR|0
+-|27093|-|False|3|Not Graduate|True|23900|41983.0|40000|300|0|OCR|1
+-|27094|Female|False|2|Not Graduate|True|8398|19777.0|40000|240|1|CCR|1
+-|27095|Male|True|4|Not Graduate|True|84607|12391.0|30000|360|0|CCR|1
+-|27096|Female|True|0|Not Graduate|False|74941|10706.0|30000|180|1|OCR|0
+-|27097|Male|False|4|Graduate|True|25104|12204.0|60000|300|0|CCR|1
+-|27098|Male|True|1|Graduate|True|77045|4510.0|60000|180|1|CCR|0
+-|27099|Male|False|4|Not Graduate|True|32497|2642.0|20000|60|0|RCR|1
+-|27100|Male|True|1|Not Graduate|True|95809|42694.0|60000|360|0|OCR|1
+-|27101|Male|False|4|Not Graduate|True|81662|34940.0|40000|300|1|RCR|1
+-|27104|Female|False|4|Not Graduate|True|32985|48359.0|50000|240|1|OCR|1
+-|27105|Male|False|3|Not Graduate|False|87757|21836.0|60000|240|1|RCR|1
+-|27108|Female|True|4|Graduate|True|86017|40151.0|20000|300|1|OCR|0
+-|27109|Male|False|0|Graduate|True|13619|36888.0|60000|360|1|RCR|1
+-|27110|Female|False|1|Graduate|False|75600|30022.0|50000|300|0|CCR|1
+-|27111|Male|True|0|Not Graduate|False|43317|31692.0|20000|120|0|CCR|1
+-|27112|Female|False|4|Graduate|False|2705|9080.0|60000|300|0|OCR|1
+-|27113|Male|True|1|Not Graduate|False|52336|29085.0|60000|180|0|OCR|0
+-|27114|Female|False|1|Not Graduate|False|32363|33579.0|30000|180|1|RCR|1
+-|27115|Male|True|3|Not Graduate|True|5102|6334.0|40000|240|1|OCR|0
+-|27116|Female|True|4|Graduate|True|73163|9545.0|30000|180|1|OCR|1
+-|27117|Female|False|2|Not Graduate|True|53152|1044.0|10000|60|1|OCR|1
+-|27118|Male|False|3|Not Graduate|False|19225|1874.0|50000|120|1|RCR|0
+-|27119|Male|True|1|Graduate|False|29061|28204.0|40000|300|0|OCR|0
+-|27120|Male|True|0|Not Graduate|True|70067|23203.0|40000|360|1|OCR|0
+-|27121|Female|False|0|Not Graduate|False|71528||30000|120|1|CCR|1
+-|27122|Male|False|1|Not Graduate|False|66276||30000|360|1|RCR|1
+-|27123|Male|False|1|Graduate|False|62479||20000|60|1|CCR|1
+-|27124|Male|False|3|Not Graduate|True|95064|27108.0|50000|360|0|CCR|0
+-|27125|Female|True|4|Not Graduate|True|53397|33412.0|10000|360|1|RCR|1
+-|27126|Male|False|0|Graduate|True|48451|14549.0|30000|360|0|CCR|1
+-|27128|Female|True|1|Not Graduate|True|25365|38951.0|20000|360|0|RCR|1
+-|27129|Female|True|3|Graduate|False|80669|10502.0|20000|240|1|OCR|0
+-|27130|Male|True|2|Graduate|False|65086|49495.0|20000|360|0|OCR|1
+-|27131|Male|False|0|Graduate|False|81546||50000|240|0|RCR|1
+-|27132|Female|False|2|Not Graduate|False|68177|42886.0|10000|120|1|OCR|1
+-|27133|Male|True|3|Not Graduate|False|95265||60000|180|1|OCR|1
+-|27134|Male|True|4|Graduate|True|45464|38206.0|60000|120|1|OCR|1
+-|27135|Female|True|1|Not Graduate|False|96872|14061.0|50000|360|1|CCR|0
+-|27136|Female|True|2|Graduate|False|89777|27193.0|40000|180|1|RCR|0
+-|27137|Male|True|0|Graduate|True|55529||20000|360|0|OCR|1
+-|27138|Female|False|2|Not Graduate|True|24762||40000|360|1|OCR|1
+-|27139|Female|True|3|Not Graduate|False|59215|39834.0|10000|120|0|OCR|1
+-|27140|Female|True|1|Not Graduate|True|99773|5784.0|20000|120|1|OCR|1
+-|27141|Male|True|4|Not Graduate|False|58194|11942.0|10000|240|1|RCR|0
+-|27142|Male|False|1|Not Graduate|False|1786|10770.0|50000|180|0|OCR|1
+-|27143|Male|True|0|Not Graduate|True|32061|44092.0|10000|240|1|CCR|1
+-|27144|Male|False|2|Not Graduate|False|59878|20596.0|20000|240|1|OCR|1
+-|27145|Male|False|1|Not Graduate|True|79284|37404.0|20000|180|1|CCR|1
+-|27146|Female|False|0|Not Graduate|True|82789|19255.0|50000|360|0|CCR|0
+-|27147|Male|True|4|Graduate|False|89535|42516.0|10000|120|1|RCR|1
+-|27148|Male|True|0|Graduate|False|87275|43833.0|20000|300|0|OCR|0
+-|27149|Male|False|2|Graduate|True|65930|1475.0|40000|240|0|OCR|1
+-|27150|Female|True|0|Not Graduate|True|61120|14348.0|10000|120|1|OCR|1
+-|27151|Male|True|0|Graduate|True|26842|14801.0|50000|240|0|OCR|1
+-|27153|Male|False|4|Not Graduate|True|12777||60000|180|1|RCR|1
+-|27154|Male|False|1|Not Graduate|False|35900|31064.0|50000|240|1|OCR|1
+-|27155|Male|False|2|Graduate|False|76175|9850.0|40000|120|1|CCR|1
+-|27156|Male|False|1|Not Graduate|True|77616|24700.0|10000|60|1|RCR|1
+-|27157|Female|True|3|Graduate|True|54450|48743.0|40000|300|1|OCR|1
+-|27158|Male|True|2|Not Graduate|True|53633|28333.0|50000|300|0|OCR|1
+-|27160|Female|False|2|Not Graduate|False|6869|30519.0|30000|240|1|CCR|1
+-|27161|Male|True|1|Not Graduate|True|56775|30849.0|20000|60|1|OCR|1
+-|27162|Male|False|3|Not Graduate|False|69552|46665.0|40000|180|1|OCR|0
+-|27163|Male|True|3|Not Graduate|False|69822|15738.0|40000|180|0|RCR|0
+-|27164|Female|True|2|Not Graduate|True|45437|3627.0|50000|180|1|CCR|1
+-|27165|Female|False|2|Not Graduate|False|75174|8719.0|60000|300|1|RCR|1
+-|27166|Male|True|2|Graduate|True|38689|37682.0|10000|180|0|OCR|0
+-|27167|Female|True|3|Not Graduate|True|34156||10000|180|0|CCR|1
+-|27168|Male|False|3|Not Graduate|False|43756|31657.0|60000|300|1|RCR|0
+-|27169|Male|False|4|Graduate|False|41933||10000|300|1|OCR|1
+-|27170|Female|True|1|Not Graduate|True|9132|10384.0|60000|360|0|OCR|0
+-|27171|Male|True|0|Not Graduate|True|57499|44231.0|60000|300|1|CCR|0
+-|27174|Female|False|4|Not Graduate|False|39259|8746.0|40000|360|1|RCR|0
+-|27175|Female|True|1|Graduate|True|47349|49955.0|10000|180|1|RCR|1
+-|27176|Male|False|0|Graduate|False|77293|40434.0|10000|300|1|OCR|1
+-|27177|Female|True|2|Graduate|True|37608|1553.0|20000|360|1|OCR|1
+-|27178|Male|False|2|Not Graduate|True|68560|1461.0|30000|300|1|CCR|0
+-|27179|Male|False|0|Not Graduate|False|68306||40000|180|1|CCR|0
+-|27180|Female|True|4|Not Graduate|False|13966|40368.0|40000|120|1|RCR|1
+-|27181|Male|False|4|Not Graduate|True|10110|43364.0|30000|60|0|OCR|1
+-|27182|Male|False|4|Not Graduate|True|55168|36154.0|10000|60|1|OCR|1
+-|27183|Male|True|1|Graduate|False|31638|14030.0|20000|120|1|CCR|1
+-|27184|Male|True|0|Graduate|True|67607|33041.0|10000|240|1|CCR|1
+-|27185|Male|True|0|Graduate|False|37488|34491.0|10000|300|1|RCR|0
+-|27186|Male|False|4|Not Graduate|False|96619|41804.0|30000|120|1|OCR|1
+-|27188|Male|False|1|Graduate|False|84049|1844.0|40000|240|1|OCR|1
+-|27189|Male|False|3|Not Graduate|True|81332|3873.0|40000|360|1|RCR|1
+-|27190|Male|False|1|Not Graduate|False|55623|41445.0|20000|180|0|RCR|1
+-|27191|Male|False|4|Graduate|False|56286|24811.0|20000|60|1|OCR|0
+-|27192|Male|True|3|Graduate|True|42349|40930.0|30000|120|0|RCR|0
+-|27193|Male|True|0|Not Graduate|True|31516|28999.0|40000|300|1|RCR|1
+-|27194|Male|True|3|Graduate|False|38725|24522.0|10000|120|1|OCR|1
+-|27195|Male|True|1|Not Graduate|True|9457|40248.0|50000|120|0|RCR|1
+-|27196|Male|False|3|Graduate|True|96783|9803.0|10000|120|0|CCR|1
+-|27197|Male|True|0|Not Graduate|True|87955|21903.0|20000|120|1|CCR|1
+-|27198|Female|True|0|Not Graduate|True|21029|21512.0|20000|240|0|OCR|1
+-|27199|Female|False|4|Not Graduate|False|24030|39994.0|20000|240|1|OCR|1
+-|27200|Male|False|2|Graduate|True|27895|39247.0|50000|60|0|CCR|0
+-|27201|Male|True|1|Graduate|False|45902|13302.0|10000|60|1|RCR|1
+-|27202|Male|True|1|Not Graduate|True|49195|5816.0|60000|120|1|OCR|1
+-|27204|Male|False|1|Not Graduate|False|44298|49966.0|30000|60|0|RCR|1
+-|27205|Female|False|0|Not Graduate|True|58423|49370.0|20000|300|0|CCR|1
+-|27206|Female|False|2|Not Graduate|False|5454|31432.0|50000|300|0|OCR|1
+-|27207|Male|False|1|Not Graduate|False|99944|48429.0|40000|360|0|CCR|1
+-|27208|Male|False|3|Not Graduate|True|67773|48740.0|10000|360|1|RCR|1
+-|27209|Male|False|0|Graduate|True|16151|16511.0|30000|180|1|OCR|1
+-|27210|Male|True|2|Not Graduate|False|28493|18386.0|10000|180|1|CCR|1
+-|27211|Male|False|3|Not Graduate|True|15072|5645.0|20000|120|1|CCR|1
+-|27212|Male|True|3|Not Graduate|False|4373|20243.0|40000|240|1|OCR|1
+-|27213|Female|False|0|Graduate|True|58594|14045.0|60000|180|1|OCR|0
+-|27214|Male|False|1|Not Graduate|True|7372|12715.0|20000|300|1|CCR|0
+-|27216|Male|False|1|Graduate|False|21196|46981.0|40000|180|0|OCR|1
+-|27218|Male|False|3|Not Graduate|True|50043|45417.0|30000|180|0|RCR|0
+-|27219|Male|False|0|Not Graduate|True|75015|31984.0|60000|180|1|OCR|1
+-|27220|Female|False|1|Not Graduate|False|61844|8265.0|60000|360|1|OCR|1
+-|27221|Female|True|4|Not Graduate|False|1767|48780.0|40000|180|1|RCR|1
+-|27222|Female|False|4|Not Graduate|False|1986|30892.0|40000|180|1|RCR|0
+-|27223|Male|False|1|Not Graduate|False|67374|45535.0|60000|240|0|OCR|0
+-|27224|Female|True|0|Not Graduate|False|73075|44359.0|50000|360|1|RCR|1
+-|27225|Female|True|0|Not Graduate|False|95659|44018.0|50000|300|0|OCR|1
+-|27226|Female|False|2|Not Graduate|True|91646|8312.0|60000|300|1|CCR|1
+-|27227|Female|False|0|Not Graduate|True|17157|29830.0|60000|120|1|CCR|1
+-|27228|Female|True|2|Graduate|True|18729|1855.0|30000|120|1|RCR|0
+-|27229|Female|False|2|Graduate|False|2649||20000|60|0|OCR|1
+-|27230|Male|False|2|Not Graduate|False|85744|8117.0|40000|120|1|RCR|1
+-|27231|Male|True|2|Graduate|True|64580|25304.0|40000|120|0|CCR|1
+-|27232|Male|True|1|Graduate|True|33862|49141.0|30000|180|1|OCR|1
+-|27233|Female|True|1|Not Graduate|True|36098|8893.0|40000|240|1|RCR|1
+-|27235|Male|True|0|Not Graduate|False|98611|10053.0|50000|120|1|OCR|0
+-|27236|Male|True|2|Not Graduate|True|57191|29184.0|40000|360|1|OCR|0
+-|27238|Female|False|0|Not Graduate|False|5238|31446.0|20000|180|0|CCR|0
+-|27239|Male|False|3|Not Graduate|True|83011||20000|180|1|OCR|1
+-|27240|Male|True|0|Not Graduate|True|85748|34748.0|60000|120|0|OCR|1
+-|27241|Female|True|3|Graduate|False|13453|22732.0|60000|240|0|OCR|0
+-|27242|Male|True|4|Graduate|True|64411|11624.0|20000|120|1|RCR|0
+-|27243|Female|False|4|Graduate|False|41389|41522.0|10000|360|1|RCR|1
+-|27244|Male|True|4|Not Graduate|False|96403|9898.0|60000|120|1|OCR|1
+-|27245|Male|True|1|Not Graduate|True|24058|48716.0|40000|360|1|CCR|1
+-|27246|Male|False|0|Not Graduate|True|64750|17266.0|20000|240|1|OCR|0
+-|27247|Male|True|1|Not Graduate|True|18424|16671.0|60000|120|1|CCR|1
+-|27248|Male|True|0|Not Graduate|True|13362|11390.0|10000|180|0|OCR|1
+-|27249|Female|False|2|Graduate|True|83073|23442.0|50000|300|1|OCR|1
+-|27250|Female|False|1|Not Graduate|True|65198|34721.0|60000|300|1|OCR|1
+-|27251|Female|True|1|Graduate|True|7588|3760.0|60000|300|0|OCR|0
+-|27253|Male|False|0|Graduate|False|8618||60000|180|1|CCR|1
+-|27254|Male|True|0|Not Graduate|True|97000|38945.0|10000|360|0|OCR|1
+-|27255|Male|True|1|Not Graduate|False|88113|43950.0|10000|360|1|OCR|0
+-|27256|Male|True|1|Graduate|True|67368|48192.0|50000|360|0|CCR|1
+-|27257|Female|False|2|Graduate|False|27459|9363.0|60000|60|0|RCR|1
+-|27258|Male|True|4|Not Graduate|True|66728||60000|120|0|OCR|0
+-|27260|Male|False|4|Graduate|True|27577|12621.0|30000|180|0|CCR|0
+-|27261|Female|True|1|Graduate|True|44506|44640.0|10000|180|1|CCR|0
+-|27262|Male|True|3|Graduate|True|4210|23885.0|10000|120|1|CCR|0
+-|27263|Male|False|3|Graduate|False|55697||20000|300|0|CCR|0
+-|27264|Male|False|0|Not Graduate|False|82855|19331.0|50000|240|1|OCR|1
+-|27265|Male|False|3|Not Graduate|True|30425|41115.0|20000|180|0|OCR|1
+-|27266|Male|True|4|Not Graduate|False|54475|5209.0|10000|60|1|RCR|0
+-|27267|Male|True|4|Graduate|False|69770|12549.0|20000|180|0|RCR|1
+-|27268|Female|False|3|Not Graduate|True|13419|21111.0|10000|120|1|RCR|1
+-|27269|Female|False|2|Not Graduate|False|82480|41708.0|20000|120|1|OCR|1
+-|27270|Male|False|1|Graduate|True|31239|33952.0|30000|180|1|CCR|1
+-|27271|Male|True|2|Not Graduate|True|15393|25792.0|30000|180|1|OCR|1
+-|27272|Male|False|0|Graduate|True|61369|5548.0|40000|60|0|RCR|1
+-|27274|Male|False|2|Not Graduate|False|89425|7978.0|30000|180|1|CCR|1
+-|27275|Female|True|1|Not Graduate|True|98241|19893.0|40000|240|1|CCR|0
+-|27278|Male|False|1|Not Graduate|False|49211|43092.0|10000|180|1|CCR|1
+-|27279|Male|True|0|Graduate|True|53769||60000|180|0|CCR|0
+-|27280|Female|True|4|Not Graduate|True|76307||30000|300|0|OCR|0
+-|27281|Female|True|1|Graduate|False|21577|18342.0|20000|120|0|OCR|1
+-|27282|Male|False|2|Graduate|True|98184|9424.0|40000|360|0|OCR|1
+-|27283|Male|True|4|Graduate|True|29757|5524.0|40000|120|1|RCR|1
+-|27284|Female|True|2|Not Graduate|False|63364|33295.0|10000|360|1|OCR|1
+-|27286|Female|True|4|Not Graduate|False|18609|25547.0|10000|360|1|CCR|1
+-|27287|Male|False|2|Not Graduate|True|46142||40000|60|0|CCR|1
+-|27288|Male|False|0|Not Graduate|True|93811|47318.0|40000|60|1|OCR|1
+-|27289|Female|True|3|Not Graduate|False|69832|19382.0|20000|120|0|OCR|1
+-|27290|Male|False|0|Graduate|True|95475|48761.0|60000|180|0|CCR|0
+-|27291|Female|True|3|Graduate|True|17040|3072.0|30000|360|1|OCR|0
+-|27292|Male|True|4|Not Graduate|True|21186|21077.0|60000|60|0|CCR|0
+-|27293|Male|False|1|Not Graduate|False|25031|41509.0|50000|180|0|OCR|1
+-|27294|Male|False|1|Graduate|True|59324|31606.0|30000|180|1|RCR|1
+-|27295|Male|True|4|Graduate|True|76264|1512.0|10000|360|0|RCR|0
+-|27296|Female|True|2|Not Graduate|False|3981|42815.0|20000|300|1|CCR|1
+-|27297|Female|True|0|Graduate|False|1006|31975.0|10000|240|1|CCR|1
+-|27298|Male|True|3|Graduate|True|53977|29961.0|30000|360|1|OCR|0
+-|27299|Female|True|3|Graduate|False|7787|31464.0|40000|300|1|OCR|1
+-|27300|Male|False|3|Not Graduate|True|48311|48566.0|20000|360|0|CCR|1
+-|27303|Male|True|1|Not Graduate|False|56443|31184.0|20000|120|1|OCR|1
+-|27304|Male|False|0|Graduate|True|93729|36292.0|30000|180|0|CCR|1
+-|27306|Male|True|1|Graduate|False|96553|1409.0|60000|120|1|OCR|0
+-|27307|Male|True|4|Not Graduate|True|85705|19752.0|10000|240|1|RCR|0
+-|27308|Female|False|2|Graduate|False|62804|23562.0|50000|60|1|OCR|1
+-|27309|Male|True|3|Not Graduate|True|35019|46524.0|40000|120|0|CCR|0
+-|27310|Female|False|0|Not Graduate|True|97854||50000|240|1|OCR|1
+-|27311|Female|True|4|Not Graduate|True|17578|41178.0|10000|300|1|OCR|1
+-|27312|Male|True|2|Not Graduate|False|89275|40252.0|30000|240|1|OCR|1
+-|27313|Male|True|3|Not Graduate|True|43694||50000|360|1|CCR|1
+-|27315|Female|False|2|Not Graduate|True|32053|12117.0|10000|360|1|CCR|0
+-|27316|Male|True|2|Not Graduate|True|39050||50000|60|0|CCR|1
+-|27317|Male|True|0|Not Graduate|True|57958|12360.0|10000|180|1|RCR|0
+-|27318|Male|False|0|Not Graduate|False|9668|40446.0|10000|360|1|OCR|1
+-|27319|Male|False|0|Not Graduate|False|20169|45719.0|50000|120|0|OCR|1
+-|27321|Male|True|1|Not Graduate|True|38543|35555.0|20000|300|1|OCR|1
+-|27322|Male|False|4|Graduate|False|72240|34386.0|40000|60|1|CCR|1
+-|27323|Male|False|4|Not Graduate|True|17550|36093.0|50000|300|0|OCR|1
+-|27324|Male|False|3|Graduate|True|83209|16274.0|40000|60|0|RCR|1
+-|27325|Male|True|0|Not Graduate|False|72801|12570.0|40000|300|0|CCR|1
+-|27326|Female|False|1|Not Graduate|False|91806|43638.0|20000|60|1|OCR|1
+-|27327|Female|False|2|Graduate|False|64709|35686.0|20000|180|1|RCR|0
+-|27328|Female|False|0|Not Graduate|False|88927|40232.0|10000|180|0|OCR|1
+-|27330|Female|True|2|Not Graduate|True|40966|32569.0|60000|120|0|OCR|1
+-|27331|Male|False|2|Not Graduate|False|17981|37907.0|50000|300|0|OCR|0
+-|27332|Male|False|1|Graduate|True|63483|5601.0|60000|300|1|CCR|1
+-|27333|Male|False|4|Graduate|True|95481||50000|180|1|OCR|1
+-|27334|Male|False|4|Not Graduate|False|81870|23578.0|20000|240|1|CCR|1
+-|27335|Male|False|0|Graduate|True|52514|21505.0|50000|240|1|OCR|1
+-|27336|Male|False|0|Not Graduate|False|43829|49931.0|50000|180|1|RCR|1
+-|27337|Male|True|3|Graduate|False|78131|38593.0|20000|300|1|RCR|0
+-|27338|Male|True|4|Not Graduate|True|53497|30155.0|40000|300|0|RCR|1
+-|27339|Female|True|3|Graduate|False|13016|42671.0|50000|60|1|OCR|1
+-|27340|Female|False|4|Not Graduate|False|87056|40393.0|40000|180|0|RCR|1
+-|27341|Male|True|3|Graduate|False|19670|7775.0|50000|240|0|OCR|1
+-|27342|Male|True|4|Graduate|False|79133|45772.0|60000|360|1|RCR|1
+-|27343|Female|True|2|Not Graduate|True|76975|41497.0|10000|180|1|CCR|1
+-|27345|Male|False|4|Not Graduate|False|20277|15326.0|30000|240|1|OCR|1
+-|27347|Female|True|4|Not Graduate|False|24255|1201.0|10000|180|1|RCR|0
+-|27348|Male|False|4|Not Graduate|False|22412|29428.0|20000|300|1|CCR|1
+-|27349|Male|False|0|Not Graduate|False|56168|31581.0|20000|60|1|RCR|0
+-|27350|Male|False|0|Graduate|False|71540||30000|60|0|OCR|0
+-|27351|Female|False|2|Not Graduate|True|49614|7743.0|60000|360|1|RCR|0
+-|27352|Male|True|1|Graduate|True|44714|48649.0|20000|120|1|CCR|1
+-|27353|Male|False|1|Not Graduate|False|14682|20676.0|20000|180|0|OCR|0
+-|27354|Female|True|2|Not Graduate|True|18680|31777.0|50000|180|1|OCR|1
+-|27355|Male|False|3|Graduate|True|26703|27464.0|10000|240|0|CCR|1
+-|27356|Female|True|4|Not Graduate|True|68916|16623.0|40000|360|0|CCR|0
+-|27357|Female|True|1|Not Graduate|False|3901|6536.0|40000|300|1|OCR|1
+-|27358|Male|True|3|Graduate|True|49709|22041.0|40000|60|1|OCR|1
+-|27359|Male|True|3|Not Graduate|True|85927|46976.0|30000|360|1|RCR|0
+-|27360|Female|True|0|Not Graduate|False|76208|14559.0|20000|120|1|OCR|1
+-|27362|Male|False|1|Not Graduate|True|82969|12608.0|60000|300|1|RCR|1
+-|27363|Male|True|2|Not Graduate|True|39541|17091.0|20000|300|0|OCR|1
+-|27365|Male|True|2|Graduate|False|92189|48558.0|60000|120|0|OCR|1
+-|27366|Male|True|0|Not Graduate|False|72838|33313.0|50000|60|0|OCR|1
+-|27367|Male|True|3|Not Graduate|True|23570|31009.0|60000|240|1|OCR|1
+-|27368|Male|False|0|Not Graduate|False|8748|39157.0|60000|240|0|OCR|1
+-|27369|Male|True|1|Not Graduate|True|71623|24091.0|50000|300|0|CCR|1
+-|27370|Male|True|2|Not Graduate|False|57178|1794.0|60000|120|1|OCR|1
+-|27373|Male|True|4|Not Graduate|True|14553|17307.0|30000|300|0|CCR|1
+-|27374|Male|True|0|Graduate|False|2325|4008.0|30000|360|1|OCR|0
+-|27375|Male|False|4|Graduate|True|56261|5388.0|50000|240|1|OCR|1
+-|27376|Male|False|3|Graduate|True|6370||30000|360|1|OCR|1
+-|27377|Male|True|4|Not Graduate|False|15104|22903.0|10000|360|1|OCR|0
+-|27378|Male|False|1|Not Graduate|True|55739|30226.0|20000|60|1|CCR|0
+-|27379|Male|True|4|Not Graduate|True|58983|44493.0|60000|300|1|CCR|1
+-|27380|Female|True|0|Not Graduate|True|38832|14921.0|50000|300|0|OCR|1
+-|27381|Male|False|0|Graduate|True|48064|19086.0|20000|360|0|RCR|0
+-|27382|Female|False|1|Graduate|True|9316|12154.0|30000|180|1|OCR|1
+-|27383|Male|True|1|Not Graduate|False|54926|34379.0|10000|240|1|OCR|0
+-|27384|Female|False|0|Not Graduate|True|29800||10000|180|1|CCR|1
+-|27385|Male|False|0|Graduate|False|20348|1936.0|10000|180|1|OCR|1
+-|27386|Female|False|3|Graduate|True|40617||50000|300|1|OCR|0
+-|27387|Male|False|2|Not Graduate|False|54156|4841.0|20000|120|1|OCR|1
+-|27388|Female|True|0|Graduate|True|69704|12808.0|30000|120|1|RCR|1
+-|27389|Male|False|4|Graduate|True|21220|14522.0|10000|180|1|OCR|0
+-|27390|Male|False|1|Not Graduate|True|43866|15581.0|40000|360|1|OCR|0
+-|27391|Female|False|4|Not Graduate|False|3829|13267.0|20000|120|1|OCR|1
+-|27392|Male|True|4|Not Graduate|True|8001|39962.0|10000|180|1|OCR|0
+-|27393|Male|True|2|Graduate|False|18624|17672.0|20000|240|1|OCR|1
+-|27394|Female|False|2|Not Graduate|False|50264|7664.0|40000|360|1|CCR|0
+-|27395|Male|False|0|Graduate|True|84336|17542.0|10000|360|1|OCR|0
+-|27396|Female|True|4|Not Graduate|False|74524|47879.0|60000|240|0|OCR|1
+-|27397|Female|True|0|Graduate|True|50800|44988.0|10000|300|0|OCR|1
+-|27398|Male|False|3|Not Graduate|True|58995|19027.0|30000|300|1|RCR|1
+-|27399|Male|True|1|Not Graduate|True|65656|3457.0|30000|360|0|RCR|1
+-|27401|Male|True|2|Not Graduate|False|28285||40000|360|0|OCR|0
+-|27402|Male|True|1|Not Graduate|True|92750|3359.0|10000|240|1|OCR|0
+-|27403|Female|False|2|Not Graduate|True|40741|3923.0|60000|120|0|OCR|1
+-|27404|Female|True|2|Graduate|False|41675|14585.0|20000|180|0|CCR|0
+-|27405|Male|False|1|Graduate|True|42542|38476.0|40000|120|1|CCR|1
+-|27406|Male|True|0|Graduate|True|60775|43897.0|10000|300|0|OCR|1
+-|27407|Female|True|0|Graduate|True|81371||40000|240|0|CCR|0
+-|27408|Male|True|2|Graduate|True|42777|34553.0|60000|60|1|OCR|1
+-|27409|Male|True|3|Graduate|True|90485||50000|120|1|RCR|1
+-|27410|Male|False|0|Not Graduate|True|83899|11243.0|30000|300|1|CCR|1
+-|27412|Male|False|0|Not Graduate|True|1999||40000|360|1|CCR|1
+-|27413|Female|False|4|Not Graduate|True|38374|17087.0|10000|360|0|RCR|0
+-|27414|Male|True|3|Not Graduate|True|56456|36872.0|50000|360|1|OCR|0
+-|27415|Male|False|3|Not Graduate|True|60238|40249.0|30000|60|1|CCR|0
+-|27416|Male|True|3|Not Graduate|False|81103|40334.0|20000|360|0|OCR|0
+-|27417|Female|False|2|Graduate|False|93703|41928.0|20000|120|1|OCR|0
+-|27418|Male|False|2|Graduate|True|19769|16987.0|20000|180|1|OCR|1
+-|27419|Male|False|2|Not Graduate|False|76764|36138.0|30000|120|0|CCR|1
+-|27420|Male|True|0|Not Graduate|False|45491|17421.0|20000|180|0|OCR|1
+-|27421|Male|True|1|Graduate|True|95262|2880.0|20000|240|0|RCR|1
+-|27422|Male|False|1|Not Graduate|False|78835||30000|300|0|OCR|0
+-|27423|Male|False|0|Not Graduate|True|94996|7890.0|10000|120|1|OCR|1
+-|27424|Male|False|4|Graduate|True|10500|44691.0|10000|120|1|OCR|1
+-|27425|Male|True|1|Graduate|True|49742||50000|300|1|OCR|0
+-|27426|Male|True|3|Not Graduate|False|5380||40000|360|1|OCR|0
+-|27427|Female|True|0|Not Graduate|True|84520|45834.0|20000|240|0|OCR|1
+-|27428|Male|True|2|Not Graduate|True|70888|38659.0|50000|180|1|OCR|0
+-|27430|Male|False|4|Not Graduate|False|56963|9810.0|20000|180|1|OCR|0
+-|27431|Male|False|3|Graduate|False|22872|4723.0|40000|360|1|OCR|0
+-|27432|Male|False|2|Not Graduate|True|62964|39947.0|30000|120|0|CCR|0
+-|27433|Male|True|4|Graduate|False|84385|22261.0|60000|180|0|OCR|1
+-|27435|Male|False|4|Graduate|True|74250|14121.0|50000|300|0|OCR|0
+-|27436|Female|False|4|Not Graduate|True|66470|36431.0|50000|240|1|RCR|0
+-|27437|Female|True|4|Graduate|True|92683|22912.0|30000|60|1|OCR|1
+-|27438|Male|True|4|Not Graduate|True|27997|1525.0|30000|240|0|RCR|1
+-|27439|Female|True|0|Graduate|False|63661|31018.0|20000|300|1|CCR|1
+-|27441|Male|False|1|Graduate|True|23323|4185.0|60000|180|1|CCR|1
+-|27442|Male|True|3|Not Graduate|True|60688|6396.0|40000|300|1|CCR|1
+-|27443|Male|False|2|Graduate|True|32522|46317.0|10000|120|1|CCR|1
+-|27444|Male|True|2|Graduate|True|77736|3667.0|60000|360|1|OCR|0
+-|27445|Male|True|0|Graduate|False|10684|26234.0|30000|300|1|OCR|1
+-|27446|Male|False|1|Not Graduate|True|38844|35539.0|60000|240|1|RCR|1
+-|27447|Male|False|2|Not Graduate|False|86699|32514.0|50000|120|0|OCR|0
+-|27448|Female|False|2|Not Graduate|True|59081|29877.0|10000|120|1|OCR|1
+-|27449|Female|True|2|Not Graduate|False|33311|30737.0|40000|60|1|CCR|1
+-|27450|Female|True|0|Not Graduate|False|3279|3662.0|60000|300|1|CCR|0
+-|27451|Male|False|4|Graduate|True|26960|30218.0|40000|360|1|OCR|1
+-|27452|Female|True|1|Graduate|True|23365||50000|180|1|OCR|1
+-|27453|Female|True|3|Not Graduate|False|58310|2622.0|30000|360|1|OCR|1
+-|27454|Male|True|2|Graduate|True|25499|11635.0|10000|360|1|RCR|1
+-|27455|Male|True|3|Graduate|True|32779|1638.0|10000|300|1|OCR|1
+-|27457|Male|True|3|Graduate|True|80550|7942.0|10000|300|1|OCR|1
+-|27458|Female|False|3|Not Graduate|True|96577|41337.0|10000|60|1|CCR|0
+-|27459|Male|False|2|Not Graduate|True|84425|13333.0|20000|300|1|RCR|0
+-|27460|Male|True|3|Graduate|True|18932|14513.0|20000|360|0|CCR|1
+-|27461|Male|False|4|Not Graduate|False|62356|42619.0|20000|300|1|CCR|0
+-|27462|Female|False|1|Graduate|False|99902||60000|300|0|OCR|0
+-|27463||True|2|Graduate|False|4788|26380.0|40000|180|0|RCR|0
+-|27464|Male|True|0|Not Graduate|True|41407|26265.0|30000|240|0|OCR|1
+-|27465|Male|False|0|Not Graduate|False|47560|13568.0|50000|240|1|CCR|1
+-|27466|Male|False|4|Graduate|False|84749|22219.0|60000|120|0|CCR|1
+-|27467|Male|True|3|Not Graduate|True|36797|26776.0|20000|60|1|OCR|0
+-|27469|Female|False|2|Graduate|True|79867||40000|60|1|RCR|1
+-|25236|Female|False|3|Not Graduate|False|41277|35753.0|50000|300|1|OCR|1
+-|25237||False|4|Not Graduate|True|48120|22089.0|10000|60|1|CCR|1
+-|25238||False|1|Not Graduate|True|72372|27791.0|30000|120|1|RCR|1
+-|25239|Male|True|2|Not Graduate|True|27524|29107.0|50000|120|0|OCR|0
+-|25240|Female|True|4|Not Graduate|True|32545|14446.0|20000|180|1|CCR|1
+-|25241|Male|False|0|Not Graduate|True|77862||30000|180|1|OCR|0
+-|25242|Female|True|3|Graduate|True|79591|32262.0|50000|60|1|CCR|1
+-|25244|Male|False|0|Not Graduate|True|69551|9654.0|10000|240|1|CCR|1
+-|25245|Male|True|3|Not Graduate|False|17716|47839.0|20000|180|1|CCR|1
+-|25246|Female|False|0|Not Graduate|True|77991|38577.0|20000|60|1|CCR|0
+-|25248|Male|False|0|Not Graduate|True|45104|16996.0|20000|240|0|OCR|1
+-|25249|Male|False|2|Not Graduate|True|68022|42529.0|30000|60|1|OCR|0
+-|25250|Male|True|2|Not Graduate|True|62942|12468.0|50000|360|0|OCR|1
+-|25251|Male|False|0|Not Graduate|True|32881|21048.0|60000|300|0|CCR|1
+-|25252|Male|True|0|Not Graduate|False|46174|38079.0|50000|60|1|OCR|1
+-|25253|Male|True|3|Graduate|True|26203|10454.0|30000|300|1|RCR|1
+-|25254|Male|False|1|Not Graduate|True|19415|11370.0|10000|180|0|OCR|1
+-|25256|Female|True|3|Graduate|True|94052|41595.0|50000|120|0|CCR|1
+-|25257|Male|True|4|Not Graduate|True|32843|38201.0|60000|180|1|RCR|1
+-|25258|Male|False|1|Graduate|True|22729|5989.0|30000|60|0|CCR|1
+-|25259|Male|False|2|Graduate|True|46533|9424.0|50000|120|1|CCR|0
+-|25260|Female|False|1|Not Graduate|False|32407|32715.0|60000|180|1|RCR|0
+-|25261|Male|True|0|Not Graduate|True|40405|34854.0|50000|360|1|CCR|1
+-|25262|Female|False|1|Not Graduate|False|57909|49253.0|60000|240|0|RCR|0
+-|25263|Male|True|4|Not Graduate|True|49437|48421.0|30000|300|1|RCR|1
+-|25264|Male|True|1|Graduate|False|4351|34303.0|30000|60|0|OCR|1
+-|25267|Male|True|1|Not Graduate|True|50288|32994.0|20000|360|1|RCR|1
