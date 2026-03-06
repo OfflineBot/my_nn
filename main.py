@@ -57,12 +57,10 @@ def load_data(files):
     X_tensor = torch.tensor(features.values, dtype=torch.float32)
     y_tensor = torch.tensor(target.values, dtype=torch.float32).unsqueeze(1)
 
-    #print("Any NaNs in features?", torch.isnan(X_tensor).any())
-    #print(X_tensor)
     return X_tensor, y_tensor, n_pos, n_neg
 
 def split_train_test(X_tensor, y_tensor):
-    # Train/test split (80/20)
+
     n = len(X_tensor)
     split = int(n * 0.8)
     idx = torch.randperm(n)
@@ -74,7 +72,7 @@ def split_train_test(X_tensor, y_tensor):
 
 
 def test(model, X_train, X_test, y_train, y_test):
-    # Evaluate
+
     model.eval()
     with torch.no_grad():
         train_preds = (torch.sigmoid(model(X_train)) > 0.5).float()
@@ -106,14 +104,11 @@ def test_new(model, X_new, y_new):
 
 def train(model, n_neg, n_pos, X_train, y_train, X_test, y_test, epochs, loss_break, lr):
 
-    #model = NN(input_size, hidden1, hidden2, output_size)
-    # pos_weight penalises missing a 0 so the model stops predicting all 1s
     pos_weight = torch.tensor([n_neg / n_pos], dtype=torch.float32)
     criterion  = nn.BCEWithLogitsLoss(pos_weight=pos_weight)
     optimizer  = optim.Adam(model.parameters(), lr=lr)
     scheduler  = optim.lr_scheduler.StepLR(optimizer, step_size=500, gamma=0.5)
 
-    # Train
     for epoch in range(epochs):
         model.train()
         optimizer.zero_grad()
@@ -134,7 +129,6 @@ def train(model, n_neg, n_pos, X_train, y_train, X_test, y_test, epochs, loss_br
             print(f"Epoch {epoch+1:4d} | Train Loss: {loss.item():.4f} | Test Loss: {test_loss:.4f}")
 
 
-# Deeper network with dropout to reduce overfitting
 class NN(nn.Module):
     def __init__(self, input_size, hidden1, hidden2, output_size):
         super(NN, self).__init__()
@@ -158,7 +152,6 @@ def main():
     X_tensor, y_tensor, n_pos, n_neg = load_data(glob.glob("./data/*.csv"))
     (X_train, y_train), (X_test, y_test) = split_train_test(X_tensor, y_tensor)
 
-    # Parameters
     epochs     = 3_000
     input_size = X_tensor.shape[1]
     hidden1    = input_size * 2
