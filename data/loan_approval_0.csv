@@ -1,5 +1,5 @@
 Num_Kids|Loan_ID|Gender|Married|Dependent_No|Education|Self_Employed|Applicant_Income|CoApplicant_Income|Loan_Amount|Loan_Amount_Term|Credit History|Property_District|Loan_Status
--|27471|Male|True|1|Not Graduate|True|4251|34868.0|30000|300|1|CCR|1
+-       |27471  |Male  |True   |1           |Not Graduate|True      |4251            |34868.0           |30000      |300             |1             |CCR              |1
 -|27472|Male|False|1|Graduate|False|23399|30710.0|30000|60|1|OCR|1
 -|27473|Female|False|4|Not Graduate|True|68684|13669.0|50000|180|1|OCR|1
 -|27474|Male|False|3|Graduate|True|19825|20862.0|10000|360|0|OCR|1
